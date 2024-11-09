@@ -1,3 +1,3 @@
-Read `/backend/README.md`
-
-Read `/extension/README.md`
+- Setup the backend server (Read `/backend/README.md`)
+- Setup the chrome extension (Read `/extension/README.md`)
+- Visit a website, navigate to the privacy policy page, click on the extension and wait a few seconds
