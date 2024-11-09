@@ -4,7 +4,7 @@ from haystack.components.builders import ChatPromptBuilder
 from haystack.components.generators.chat import OpenAIChatGenerator
 from prompt_templates import main_prompt_template
 from dotenv import load_dotenv
-
+import json
 
 load_dotenv()
 
@@ -29,7 +29,7 @@ async def summarize_privacy_policy(input: PrivacyPolicyInput):
         builder = ChatPromptBuilder(template=main_prompt_template)
         prompt = builder.run(privacy_policy=input.privacy_policy)
         response = generator.run(prompt["prompt"], generation_kwargs={"response_format": {"type": "json_object"}})["replies"][0]
-        return response
+        return json.loads(response.content)
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

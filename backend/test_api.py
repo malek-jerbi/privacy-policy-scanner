@@ -10,8 +10,7 @@ payload = {"privacy_policy": privacy_policy_text}
 response = requests.post(url, json=payload)
 
 if response.status_code == 200:
-    summary = response.json()["summary"]
-    print("Summary:")
+    summary = response.json()
     print(summary)
 else:
     print(f"Error: {response.status_code}")
