@@ -9,7 +9,7 @@
 - Inside your poetry shell: `uvicorn app:app --reload`
 
 # Testing
-- You can test the endpoint with the test script `test_api.py` that uses the privacy policy from https://www.silhouette.com/ca/en/data-privacy:
+- You can test the endpoint with the test script `test_api.py` that uses the privacy policy from https://www.aritzia.com/en/privacy-policy:
     - `python test_api.py`
 - You can use postman or cURL aswell
     ```
