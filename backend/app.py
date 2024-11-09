@@ -26,6 +26,7 @@ prompt_builder = ChatPromptBuilder()
 @app.post("/summarize_privacy_policy")
 async def summarize_privacy_policy(input: PrivacyPolicyInput):
     try:
+        print(input.privacy_policy)
         builder = ChatPromptBuilder(template=main_prompt_template)
         prompt = builder.run(privacy_policy=input.privacy_policy)
         response = generator.run(prompt["prompt"], generation_kwargs={"response_format": {"type": "json_object"}})["replies"][0]

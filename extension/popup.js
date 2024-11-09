@@ -1,5 +1,3 @@
-// popup.js
-
 document.addEventListener('DOMContentLoaded', () => {
     const summaryDiv = document.getElementById('summary');
   
