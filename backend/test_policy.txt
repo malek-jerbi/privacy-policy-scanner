@@ -1,0 +1,1129 @@
+privacy policy pasted from https://www.silhouette.com/ca/en/data-privacy
+
+Cookies preferences
+Join our visionary community for a dose of inspiration! Subscribe now
+
+Sunglasses
+All sunglasses
+New arrivals
+Women
+Men
+Accessories
+Frame type
+Rimless
+Full-rim
+Virtual Try-On
+Available
+Shape
+Aviator
+Cateye
+Rectangular
+Round / oval
+Butterfly
+Material
+High-Tech-Titan
+SPX®+
+23 kt gold plated
+Technology
+Silhouette Light Management®
+Polarised
+Mirrored
+Collection
+Infinity Collection
+Accent Shades
+Sun Lite Collection
+Eos Collection
+TMA Collection
+Titan Minimal Art
+Titan Minimal Art
+Optical Eyewear
+All optical eyewear
+New arrivals
+Women
+Men
+Accessories
+Frame type
+Rimless
+Fullrim
+Halfrim
+Virtual Try-On
+Available
+Shape
+Aviator
+Cateye
+Rectangular
+Round / oval
+Butterfly
+Material
+High-Tech-Titan
+SPX®+
+23 kt gold plated
+Collection
+Vivid Sky
+Lite Spirit
+Purist
+TMA
+Elegance
+Titan Minimal Art
+Silhouette Newsletter
+Luxury
+Atelier
+Elegance
+Stories
+
+
+Privacy Policy
+Cookie Preferences...
+
+ 
+Last updated:  9. November 2024
+
+ 
+Silhouette International Schmied AG, Postfach 538, Ellbognerstrasse 24, 4020 Linz, Austria, ("Silhouette" or "we") is the operator of the website www.silhouette.com and is responsible under data protection law for the data processing described in this privacy policy. This privacy policy extends to all aspects of
+
+the website www.silhouette.com (‘website’) and to
+contracts with customers for product purchases made via the national versions of the website listed in section 1.3.
+Thank you very much for your interest in our products. In this privacy policy, we provide you with detailed information about how we process your data and which rights you have with regard to this data processing. Protecting your privacy is a major priority for us. Therefore, we want to explain your rights and options so that we can foster a long-term business relationship based on trust. We practise data protection in accordance with the EU General Data Protection Regulation (GDPR) in conjunction with the Austrian Data Protection Act (DSG), the Austrian Telecommunications Act (TKG) and other applicable legislation.
+
+ 
+The scope of this privacy policy is based on the terminology used in the GDPR. “Processing” of personal data essentially refers to any handling of such data. Whenever the data we process can be traced to natural persons  (even if only via third parties or by means of additional knowledge) and who can be identified as an individual (particularly when the data discloses the person’s full name), then this data is considered to be “personal data”.
+
+1. Data processing during use of the website
+1.1 Visiting our website
+You can visit our website without having to disclose information about yourself. You can visit our website for purely informational purposes, to find out about our products, services and activities, without it becoming possible for us to link such data to you personally. Data processed automatically does not enable us to identify you personally. Nevertheless, IP addresses are considered personal data under the GDPR.
+
+ 
+Server log files (Zugriffsdaten)
+
+For technical reasons (particularly to ensure a functioning and secure website), we process the technically necessary data about accesses to our website in so-called server log files which your browser automatically sends to us.
+
+ 
+The access data we process includes:
+
+The name of the website you are accessing
+The browser type (including version) you use
+The operating system you use
+The site you visited before accessing our site (referrer URL)
+The time of your server request
+The amount of data transferred
+The host name of the computer (IP address) you are using to access the site
+This data cannot be traced back to any natural person and is used solely to perform statistical analyses and to operate and improve our website while also optimising our site and keeping it secure. This data is sent exclusively to our website operator. The data is neither connected nor aggregated with other data sources. In case of suspicion of unlawful use of our website, we reserve the right to examine the data retroactively. This data processing takes place on the legal grounds of our legitimate interest in maintaining a technically fault-free and optimal website, as described under Art. 6 paragraph 1 lit. f of the GDPR.
+
+The access data is deleted within a short period of time after serving its purpose (usually within a few days) unless further storage is required for evidence purposes. In such cases, the data is stored until the incident is definitively resolved.
+
+ 
+Hosting
+
+In the process of hosting our website, we store all data related to the operation of our website. This is necessary for enabling operation of our website. Therefore, we process this data on the legal grounds of our legitimate interest in optimising our website as described under Art. 6 paragraph 1 lit. f of the GDPR. To provide access to our website, we use the services of web hosting providers, to whom we supply the aforementioned data within the context of contractual processing in accordance with Art. 28 of the GDPR.
+
+1.2. Non-binding requests/solicitations while visiting the website
+Contact
+
+Whenever you contact us, your information is used to process and handle your contact request in the course of fulfilling pre-contractual rights and obligations in accordance with Art. 6 paragraph 1 lit. b of the GDPR. To handle and answer your request it is necessary for us to process your data; otherwise we are unable to answer your request or only able to partially answer it. Your information can be stored in a database of customers and leads on the grounds of our legitimate interest in direct marketing as described in Art. 6 paragraph 1 lit. f of the GDPR. For the collecting, storage and processing of your data and for purposes of replying to your inquiries we use external processors with which we have entered into processing agreements in accordance to Art 28 para 3 GDPR and which sufficiently guarantee due and safe data processing.
+
+1.3. Data processing of customers on the website
+In case you intend to purchase our products and/or use our services offered on our website, you must disclose certain information so that our contract with you can be executed. For this, you can create a central customer account. However, you can also place an order without a customer account. When purchasing a product without creating a customer account, you must always provide the following personal data:
+
+ 
+(a) Name and surname
+(b) Email address
+(c) Delivery address and billing address
+
+If you decide to use our services, you must disclose certain information so that our contract with you can be executed. For this, you can create a central customer account. However, you can also place an order without a customer account. When purchasing a product without creating a customer account, you must always provide the following personal data:
+
+ 
+(a) Name and surname
+(b) Email address
+(c) Delivery address and billing address
+
+ 
+We require this information to be able to fulfil our contract with you (Art. 6 paragraph 1 lit. b of the GDPR). You may provide further information, such as your telephone number, on a voluntary basis. The data is also saved by us, though we only store the data for as long as we deem reasonably necessary for the purposes of fulfilling the contract and to the extent permissible by law. In any case, we save your personal data for as long as legal storage requirements apply or periods of limitation for potential legal claims have not yet expired. If the storage of the data is no longer necessary for the purposes for which the data was originally collected (or within the scope of a legally permissible change of purpose), and there are no further legal requirements to continue storing it, then we arrange for the data to be deleted.
+
+ 
+On our website and/or online shop, you have the option of registering for a central customer account to simplify the ordering process when placing future orders. In this case, you are only required to provide your full name, email address and postal address (delivery and billing address). You may provide further information, such as your telephone number, on a voluntary basis. Data processing related to this is based on your explicit consent to process this data (Art. 6 paragraph 1 lit. a of the GDPR). You may also use your registration data to subsequently log in to our evil eye online shop. The information you submit is only processed internally at Silhouette; your registration data is not disclosed to any third parties.
+
+ 
+For the handling of returns we might also employ processors to which we will disclose your full name and postal address. We have concluded agreements to sufficiently safeguard your data with such processors. 
+
+1.4. Use of cookies in general
+We use cookies to make our website as user-friendly and functional as possible for you. Some of these cookies are stored on the device you use to access the site.
+
+ 
+Cookies are small packages of data that are exchanged between your browser and our web server whenever you visit our website. They do not cause any damage and are used solely to recognise website visitors. The next time you access our website using the same device, the information stored in the cookies can then either be sent back to us (“first-party cookie”) or to a web application of third party to whom the cookie belongs (“third-party cookie”).  The information that is stored and sent back allows each web application to recognise that you have already accessed and visited the website using the browser on your device. We use this information to optimally design and display our website in accordance with your preferences. Any further processing of personal data only occurs with your explicit consent in accordance with Art. 6 paragraph 1 lit. a of the GDPR or, on the basis of our legitimate interests as described in Art. 6 paragraph 1 lit. f of the GDPR, when strictly necessary for technical reasons to enable you to use the service you are accessing. 
+
+Cookies contain the following information:
+
+Cookie name
+Name of the server from which the cookie originates
+Cookie ID number
+An expiry date, after which the cookie will be automatically deleted
+We classify cookies in the following categories depending on their purpose and function: 
+
+ 
+
+Technically necessary cookies which are required for ensuring technical operations and the basic functionality of our website (e.g. to be able to access secured areas of the website). These are so-called session or connection cookies. 
+Statistics cookies, which collect anonymous data that we analyse to gain an understanding of how visitors interact with our website. These are also used for measuring the reach and access of our website, and to analyse how often specific pages are accessed. 
+Marketing cookies, for analysing user behaviour, which is used as a basis for providing personalised, targeted advertising based on your interests.
+The legal basis for using technically necessary cookies is our legitimate interest in the technically fault-free operation and smooth functionality of our website as described in Art. 6 paragraph 1 lit. f of the GDPR. The use of statistics and marketing cookies is subject to your consent, in accordance with Art. 6 paragraph 1 lit. a of the GDPR.
+
+ 
+For more information about the cookies we actually use (specifically, their purpose and lifespan), refer to this privacy policy and to the information about the cookies we use.  You can withdraw your consent for the future use of cookies at any time, in accordance with Art. 7 paragraph 3 of the GDPR. You can also set your web browser so that it does not store any cookies in general on your device or so that you will be asked each time you visit the site whether you accept the use of cookies. Cookies that have already been stored can be deleted at any time. Refer to the Help section of your browser to learn how to do this.
+
+ 
+Most browsers automatically accept cookies. However, you can change your browser settings so that cookies are either totally blocked or only certain types are permitted (e.g. you can choose to only block third-party cookies). Please note that you may not be able to enjoy the full functionality of the website if you change your cookie settings. You can find out how to change your settings on the most common browsers using the following links:
+
+ 
+Internet Explorer™: http://windows.microsoft.com/de-at/windows-vista/Block-or-allow-cookies
+Edge™: https://support.microsoft.com/de-at/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy
+Safari™: https://www.giga.de/downloads/apple-safari/tipps/cookies-in-safari-aktivieren-blockieren-loeschen-so-gehts/
+Chrome™: http://support.google.com/chrome/bin/answer.py?hl=de&hlrm=en&answer=95647
+Firefox™: https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen
+Opera™: https://help.opera.com/de/latest/web-preferences/
+
+ 
+Please note that if you deactivate the use of cookies in general, it may restrict the use of certain functionalities on our website.
+
+
+
+Required
+Technically necessary cookies are used to enable the technical operation of a website and to make the site functionally usable. They are used on the basis of our legitimate interest in offering a technically fault-free website. However, you can use your browser settings to deactivate the use of cookies in general.<br />
+
+Name	Purpose	Creator	Storage period	Domain
+__stripe_mid	enables the shopping basket to be saved temporarily for orders placed on an online shop.	Stripe	Session	www.silhouette.com
+__stripe_sid	enables the shopping basket to be saved temporarily for orders placed on an online shop.	Stripe	Session	www.silhouette.com
+_evga_(ID)	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+_sfid_(ID)	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+AWSALBTGCORS	ensures the functionality and usability of the site and helps with troubleshooting errors.		1 week	silhouetteintlschmiedag.germany-2.evergage.com
+b2blogin	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+checkoutCountry	enables the shopping basket to be saved temporarily for orders placed on an online shop.		Session	www.silhouette.com
+checkoutLanguage	enables the shopping basket to be saved temporarily for orders placed on an online shop.		Session	www.silhouette.com
+chosenCountry	save the user's settings and preferences, such as the current language preference.		Session	www.silhouette.com
+chosenLanguage	save the user's settings and preferences, such as the current language preference.		Session	www.silhouette.com
+cookieconsent_mode	ensures the functionality and usability of the site and helps with troubleshooting errors.	DataReporter GmbH	12 months	silhouette.com
+cookieconsent_status	ensures the functionality and usability of the site and helps with troubleshooting errors.	DataReporter GmbH	12 months	silhouette.com
+cookietest	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+ECOM-CAT-PDP	counts the number of the session and assigns an anonymous identifier to each visitor. 		Session	www.silhouette.com
+has_seen_shop_in_country_your_country	save the user's settings and preferences, such as the current language preference.		Session	www.silhouette.com
+modifiedCheckoutTimeStamp	save the user's settings and preferences, such as the current language preference.		Session	www.silhouette.com
+modifiedCheckoutTimeStamp24HoursAgo	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+OrderInfoSH	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+ssm_au_c	save the user's settings and preferences, such as the current language preference.	Cloudflare	Session	www.silhouette.com
+starred-newsroom-posts-en	save the user's settings and preferences, such as the current language preference.		Session	www.silhouette.com
+tryOnCreated	ensures the functionality and usability of the site and helps with troubleshooting errors.		Session	www.silhouette.com
+Statistics
+Statistics cookies collect information about how websites are used in order to help improve the attractiveness, content and functionality of the sites. These cookies can only be used with your consent and as long as you have not deactivated the cookie in question.
+
+Name	Purpose	Creator	Storage period	Domain
+__utma	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+__utmb	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+__utmc	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+__utmt	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+__utmv	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+__utmz	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+_clsk	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Microsoft	Session	silhouette.com
+_ga	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	1 year	silhouette.com
+_ga_(GA4-ID)	contain information to enable users of the site to be distinguished from one another. Collects data about the userís visits, such as which pages are relevant.	Google	Session	www.silhouette.com
+Marketing
+Marketing cookies originate from external advertising companies and are used to collect information about the websites the user has visited. These cookies can only be used with your consent and as long as you have not deactivated the cookie in question.
+
+Name	Purpose	Creator	Storage period	Domain
+_clck	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Microsoft	Session	silhouette.com
+_fbc	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Facebook	Session	silhouette.com
+_fbp	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Facebook	3 months	silhouette.com
+_gcl_au	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google	3 months	silhouette.com
+_gcl_aw	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google	Session	www.silhouette.com
+_gcl_gb	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google	Session	www.silhouette.com
+_gcl_gs	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google	Session	www.silhouette.com
+_uetmsclkid	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Microsoft	Session	www.silhouette.com
+_uetsid	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Microsoft Bing	Session	silhouette.com
+_uetvid	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Microsoft Bing	Session	silhouette.com
+FPGSID	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.		30 minutes	silhouette.com
+has_closed_newsletter	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.		Session	www.silhouette.com
+has_registered_newsletter	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.		Session	www.silhouette.com
+IDE	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google	1 year	doubleclick.net
+NID	registers a unique ID that identifies and recognises the user. Is used for targeted advertising.	Google		www.google.com
+
+1.5. Use of tools and plugins on our website
+The use of cookies that are not necessary for technical reasons (see section 1.4) as well as the storage of information on your device that is not necessary for technical reasons, or the accessing of such information that already exists, requires your consent. Therefore, when you access our website, you will be asked whether you want to allow us to use cookies, and specifically which cookies you will allow. The tools and plugins listed below function/work at least partially in the same way. Therefore, they will also only be used with your consent, in accordance with Art. 6 paragraph 1 of the GDPR. The cookies banner that appears when you access the website gives you the option of setting your own personal cookies preferences.
+
+Data transfer to the US
+We would like to explicitly point out that as of July 10, 2023, the EU Commission has issued an adequacy decision on the EU-US data protection framework (Data Privacy Framework) pursuant to Art. 45 paragraph 1 GDPR. Accordingly, organizations or companies (as data importers) in the US that are registered in a public list as part of the self-certification of the Data Privacy Framework provide an adequate level of protection for data transfers. Whether the specific provider of a service is already certified can be found here: https://www.dataprivacyframework.gov/s/participant-search
+
+The Data Privacy Framework provides a valid legal basis for the transfer of personal data to the USA. This creates binding guarantees to comply with all ECJ requirements; for example, it provides that access by U.S. intelligence services to EU data is limited to a necessary and proportionate level and that a data protection review court is created to which individuals in the EU also have access.
+
+If a transfer of data by us to the US takes place at all or if a service provider based in the US is used by us, we refer to this explicitly in this Privacy Policy (see in particular the description of the technologies used on our website).
+
+It should be noted that aside from significant improvements, the Data Privacy Framework is only partial and only applies to data transfers to those data importers in the U.S. that appear on the public list of certified organizations/companies.
+
+What can the transfer of personal data to the US mean for you as a user and what risks are involved?
+
+Risks for you as a user as far as data importers in the USA are concerned, which are not covered by the Data Privacy Framework, are in any case the powers of the US secret services and the legal situation in the U.S., which currently, according to the European Court of Justice, no longer ensure an adequate level of data protection. Among others, these are the following:
+
+Section 702 of the Foreign Intelligence Surveillance Act (FISA) does not provide for any restrictions on the surveillance measures of the secret services or guarantees for non-US citizens. 
+Presidential Policy Directive 28 (PPD-28) does not provide effective remedies for those affected against actions by U.S. authorities and does not provide barriers to ensuring proportionate measures. 
+The ombudsman provided for in the Privacy Shield does not have sufficient independence from the executive; he cannot issue binding orders to the U.S. secret services.
+Legally compliant transfer of data to the U.S. on the basis of the standard contractual clauses for data importers not covered by the Data Privacy Framework?
+
+In June 2021, the European Commission adopted new Standard Contractual Clauses (SCC) in Decision 2021/914/EU. These create a new legal basis for data transfers where the level of data protection is not the same as in the EU.
+
+Legally compliant transfer of data to the U.S. based on consent?
+
+If a data transfer to a service provider based in the U.S. takes place that is not covered by the Data Privacy Framework and this data transfer is based on explicit consent, we provide explicit information about this in this privacy policy, in particular in the description of the technologies used on our website.
+
+What measures do we take to ensure that data transfers to the U.S. are legally compliant?
+
+Where US providers offer the option, we choose to process data on EU servers. This should technically ensure that the data is located within the European Union and that access by US authorities is not possible.
+
+Font Awesome
+Provider: Fonticons, Inc, 307 S. Main St., Suite 202 Bentonville, AR 72712, USA.
+Purpose: Integration of Fonts and Icons, Performance Measurement
+Category: Statistics
+Recipient: USA
+Processed data: IP address, User Data
+Data subjects: Users
+Technology: JavaScript call
+Legal basis: Consent
+Website: https://www.fontawesome.com/
+Further information: https://fontawesome.com/help https://fontawesome.com/privacy
+
+ATTENTION! Within the scope of this service, data transfer to the U.S. takes place or cannot be excluded. We would like to point out that as of July 10, 2023, the European Commission has issued an adequacy decision pursuant to Art 45 paragraph 1 GDPR on the EU-US data privacy framework (Data Privacy Framework). Accordingly, organizations or companies (as data importers) in the U.S. that are registered in a public list under the self-certification option of the Data Privacy Framework provide an adequate level of protection for data transfers. Whether the specific provider of this service is already certified can be found here: https://www.dataprivacyframework.gov/s/participant-search 
+
+On our website, we use so-called web fonts for the uniform display of fonts or icons, which are provided by Fonticons via the Font Awesome Content Delivery Network (CDN). This ensures that texts, fonts and icons are displayed optimally on every user's terminal device.
+
+When a page is called up, a user's browser loads the required web fonts into the browser cache in order to display texts, fonts and icons correctly. For this purpose, the browser used must connect to Fonticons' servers. In this way, Fonticons obtains knowledge that our website has been accessed via the IP address of a user. At the same time, Fonticons receives information about the popularity of individual fonts and icons.
+
+If a browser does not support web fonts, a standard font is used by the respective end device.
+
+Google Analytics
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, Parent company: Google LLC (USA).
+Purpose: Web Analytics, Performance Measurement, Conversion Tracking, Collection of Statistical Data
+Category: Statistics
+Recipients: EU, USA
+Data processed: IP Address, Website Visit details, User Data.
+Data subjects: Users
+Technology: JavaScript Call, Cookies
+Legal basis: Consent, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Website: https://www.google.com
+Further information:
+https://policies.google.com/privacy
+https://safety.google/intl/en/principles/
+https://business.safety.google/adsprocessorterms/
+Here you can find out where exactly Google data centers are located: https://www.google.com/about/datacenters/locations/
+
+On our website, we use the functions of the web analysis service Google Analytics to analyze user behavior and to optimize our website. The reports provided by Google are used to analyze the performance of our website and to measure the success of possible campaigns via our website.
+
+Google Analytics uses cookies that enable an analysis of the use of our website.
+
+Information about the use of the website such as browser type/version, operating system used, the previously visited page, host name of the accessing computer (IP address), time of server request are usually transmitted to a Google server and stored there. We have concluded a contract with Google for this purpose.
+
+On our behalf, Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. According to Google, the IP address transmitted by your browser is not merged with other data from Google. 
+
+We only use Google Analytics with IP anonymization activated by default. This means that the IP address of a user is shortened by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and shortened there. According to Google, the IP address transmitted by a user's browser within the scope of Google Analytics is not linked to other Google data. 
+
+During the website visit, the user behaviour is recorded in the form of so-called events. These can represent the following:
+
+Page views, the click path of a user.
+first visit to our website
+visited websites
+start of a session
+interaction with our website
+user behavior (for example, clicks, scrolls, dwell time, bounce rates)
+file downloads
+ads seen / clicked
+interaction with videos
+internal search queries
+furthermore, the following is recorded:
+
+approximate location (region)
+date and time of visit
+IP address (in shortened form)
+technical information about the browser or the end devices used (e.g. language setting, screen resolution)
+Internet service provider
+Referrer URL (via which website/advertising medium a user came to our website).
+The processing of this data is essentially done by Google for its own purposes such as profiling (without our ability to influence).
+
+The data about the use of our website is deleted immediately after the end of the retention period set by us in each case. Google Analytics gives us a default of 2 months for the retention period of user and event data, with a maximum retention period of 14 months. This retention period also applies to conversion data. For all other event data, the following options are available: 2 months, 14 months, 26 months (Google Analytics 360 only), 38 months (Google Analytics 360 only), 50 months (Google Analytics 360 only). We will choose the shortest storage period that corresponds to our intended use. You can ask us at any time for the retention period currently set by us.
+
+The deletion of data whose retention period has been reached takes place automatically once a month.
+
+Google Fonts
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, parent company Google LLC (USA), https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Purpose: Integration of fonts
+Category: Statistics
+Recipients: EU, USA (possible)
+Data processed: IP address, language settings, screen resolution, version and name of browser.
+Data subjects: website visitors
+Technology: JavaScript call
+Legal basis: Consent, Data Privacy Framework
+Website: www.google.com
+Further information: https://developers.google.com/fonts/faq https://policies.google.com/privacy https://www.google.com/about/datacenters/inside/locations/
+
+To display fonts consistently, our website uses Web Fonts which are provided by Google. 
+
+To display web fonts, the web browser you use must connect with a Google server. This informs Google that our website is being accessed via your IP address. The IP address from the browser of the device you are using to access our site is also stored by Google. If your browser does not support Web Fonts, your device will display the site using a standard font type. With each Google Font request, your IP address is automatically transferred to a Google server along with information such as your language preferences, display resolution, version and name of your browser. The usage data collected by Google enables them to determine the popularity of specific font types. Google publishes these findings on internal analytics sites (e.g. Google Analytics).
+
+Google Fonts enables us to use fonts on our own website without uploading them to our server. Google Fonts is an important building block for maintaining the high quality of our website. All Google fonts are automatically optimized for the web. This reduces the data volume and is particularly advantageous for use on mobile devices. When you visit our site, the low file size allows for quicker loading times. Furthermore, Google Fonts are secure Web Fonts that support all major browsers.  
+
+Google stores requests for CSS assets for one day on its servers. This enables us to use the fonts with the support of a Google style sheet. The font files are stored by Google for one year. To delete data prematurely, you must contact Google Support ( https://support.google.com ).
+
+Google Maps
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, parent company: Google LLC (USA)
+Purpose: Integration of Map Services
+Category: Statistics
+Recipients: EU, USA
+Data processed: IP Address, Website Visit Details, User Data
+Data subjects: Users
+Technology: JavaScript Call, Cookies
+Legal basis: Consent, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Website: https://www.google.com
+Further information:
+https://policies.google.com/privacy
+https://safety.google/intl/en/principles/
+https://business.safety.google/adsprocessorterms/
+Here you can find out where exactly Google data centers are located: https://www.google.com/about/datacenters/inside/locations/
+
+On our website, the service Google Maps is integrated in order to better display geographical information about locations for users. 
+
+Google Maps is an online map service with which geographic information can be made more legible via a terminal device. Among other things, directions are displayed or map sections of a location can be integrated into a website. 
+
+When Google Maps is called up, the browser establishes a connection to Google's servers. This enables Google to know that our website has been accessed via the user's IP address. The use of Google Maps enables Google to collect and process data about the use of the service.
+
+For the provision of this service, Google Maps processes, among other things, entered search terms as well as latitude and longitude coordinates on the basis of the IP address. If the route planner function of Google Maps is used, the entered starting address is also stored. This data processing is carried out exclusively by Google and is not within our sphere of influence.
+
+We would like to point out that a cookie called "NID" is set by Google when running this service. Google Maps does not currently offer us the option to run this service in a mode without this cookie. The NID cookie contains information about your user behavior, which Google uses to optimize its own services and to provide individual, personalized advertising for you.
+
+Google anonymizes data in server logs by deleting a portion of the IP address and cookie information after 9 and 18 months, respectively.
+
+Location and activity data is stored for either 3 or 18 months and then deleted. Users can also manually clear history at any time via a Google account. To completely prevent location tracking, a user must turn off the "Web and App Activity" section in their Google account.
+
+Google Marketing Platform / Google Ad Manager
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, Parent company: Google LLC (USA)
+Purpose: Personalized Advertising, Conversion Tracking, Remarketing, Campaign Performance Measurement
+Category: Marketing
+Recipients: EU, USA
+Data processed: IP Address, Website Visit details, User data
+Data subjects: Users
+Technology: JavaScript Call, Cookies
+Legal basis: Consent, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Website: https://www.google.com
+Further information:
+https://policies.google.com/privacy
+https://safety.google/intl/de/principles/
+https://business.safety.google/adsprocessorterms/
+Here you can find out where exactly Google data centers are located: https://www.google.com/about/datacenters/inside/locations/
+
+On this website, the Google Ads service is used for the purpose of advertising our products and services.  Google Ads is Google's in-house online advertising system. 
+
+It is important for us to know whether an interested visitor ultimately becomes our customer. To be able to measure this, there is the so-called conversion tracking. Furthermore, we would like to be able to address visitors to our website again and in a targeted manner. We achieve this through so-called remarketing (retargeting).
+
+Google Ads serves both conversion tracking and remarketing, i.e. we can see what happened after you clicked on one of our ads. In order for this service to work, cookies are used and visitors are sometimes included in remarketing lists in order to be served only with certain advertising campaigns.
+
+This is done by means of a pseudonymous identification number (pID), which the browser of a user receives and is assigned to him. This pID enables the service to recognize which ads have already been displayed to a user and which have been called up. The data is used to serve ads across websites by enabling Google to identify the pages visited by the user. 
+
+Our goal is that the offer of our website through the use of Google Ads targeted to those visitors who are actually interested in our offer. The data from conversion tracking allows us to measure the benefit of individual advertising measures and optimize our website for our visitors. Conversion can be measured through the use of cookies.
+
+The information generated is transferred by Google to a server in the U.S. for evaluation and stored there. A transfer of data by Google to third parties only takes place due to legal regulations or in the context of commissioned data processing. Under no circumstances will Google link data of a user with other data collected by Google.
+
+Google reCAPTCHA
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, parent company Google LLC (USA),
+Purpose: Protection against Misuse, Spam Prevention
+Category: Technically Required
+Recipients: EU, USA
+Data processed: IP Address, Website Visit Details
+Data subjects: User
+Technology: JavaScript Call, Cookies, Local Storage
+Legal basis: Legitimate Interest, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Website: https://www.google.com
+Further information:
+https://policies.google.com/privacy https://developers.google.com/recaptcha/
+https://policies.google.com/privacy
+https://safety.google/intl/en/principles/
+https://business.safety.google/adsprocessorterms/
+Here you can find out where exactly Google data centers are located: https://www.google.com/about/datacenters/locations/
+
+On our website, the Google reCAPTCHA service is used to protect against abuse by non-human visitors (bots) and to prevent spam.
+
+When reCAPTCHA is started, the browser establishes a connection to Google's servers. This enables Google to know that our website has been accessed via a user's IP address.
+
+The purpose of reCAPTCHA is to verify whether the data entry on our website is made by a human or by an automated program. For this purpose, reCAPTCHA analyzes the user's behavior based on various characteristics. This analysis begins automatically as soon as the user starts our website. For the analysis, reCAPTCHA evaluates various information.
+
+According to our information, the following data is processed by Google:
+
+the address of the page from which the visitor comes
+IP address
+Information about the operating system
+Cookies
+Mouse and keyboard behavior
+Date and language settings
+All Java-Script Objects
+Screen resolution
+The data collected during the analysis is forwarded to and used by Google. The reCAPTCHA analyses run entirely in the background.
+
+Cookies are used for the processing of the service.  These cookies require a unique identifier for tracking purposes. According to Google, the IP address is not merged with other data from other Google services, unless a user is logged into his Google account while using the reCAPTCHA plug-in. Furthermore, reCAPTCHA also uses the local storage on the user's device to store data.
+
+Google Tag Manager
+Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, Parent company: Google LLC (USA)
+Purpose: Launching Tools and Plugins
+Category: Technically Required
+Recipients: EU, USA (possible)
+Data processed: IP Address
+Data subjects: User
+Technology: JavaScript Call
+Legal basis: legitimate interest, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active
+Website: https://www.google.com
+Further information:
+https://policies.google.com/privacy
+https://safety.google/intl/en/principles/
+https://business.safety.google/adsprocessorterms/
+Here you can find out where exactly Google data centers are located: https://www.google.com/about/datacenters/locations/
+
+The Google Tag Manager service is used on our website.
+
+The Tag Manager is a service that allows us to manage website tags via an interface. This allows us to include code snippets such as tracking codes or conversion pixels on websites without interfering with the source code. In doing so, the data is only forwarded by the Tag Manager, but neither collected nor stored. The Tag Manager itself is a cookie-less domain and does not process any personal data, as it serves purely to manage other services in our online offering. 
+
+When the Google Tag Manager is started, the browser establishes a connection to Google's servers.  These are mainly located in the U.S. Through this, Google obtains knowledge that our website was called up via the IP address of a user. 
+
+The Tag Manager ensures the resolution of other tags, which in turn may collect data. However, the Tag Manager does not access this data. If a deactivation has been made at the domain or cookie level, this remains in place for all tracking tags that are implemented with the Tag Manager.
+
+Issuu
+Provider: Issuu Inc, 131 Lytton Ave, Palo Alto, CA 94301, USA
+Purpose: Delivery of content
+Category: technically required
+Recipient country: Third country (USA)
+Processed data: IP address, online-related data
+Data subject: Website visitor
+Technology: JavaScript call
+Legal basis: legitimate interest (presentation of website content)
+Website: https://issuu.com/
+Further information:
+https://issuu.com/legal/privacy
+https://issuu.com/legal/cookies
+
+Our website uses plugins from the digital publishing platform Issuu, which enables the publication and distribution of journals and magazines as well as their viewing.
+
+ATTENTION: In the context of this service, data is transferred to the USA or such a transfer cannot be ruled out. We would like to point out that on July 10, 2023, the European Commission issued an adequacy decision on the EU-US data protection framework (Data Privacy Framework). Accordingly, organizations or companies (as data importers) in the USA that are registered in a public list as part of the self-certification option of the Data Privacy Framework offer an adequate level of protection for data transfers. You can find out whether the specific provider of this service is already certified here: https://www.dataprivacyframework.gov/list 
+
+The journals and magazines we publish on Issuu are reproduced exclusively via the issuu.com website. Therefore, when you visit one of our pages equipped with an Issuu plugin, a connection to the Issuu servers is established. The Issuu server is informed which of our pages you have visited. Issuu also obtains your IP address. This also applies if you are not logged in to Issuu or do not have an account with Issuu. 
+
+The information collected by Issuu is transmitted to the Issuu server in the USA.
+
+If you are logged into your Issuu account, you enable Issuu to assign your surfing behavior directly to your personal profile. You can prevent this by logging out of your Issuu account.
+
+jsDelivr
+On our website, we use the open-source service jsDelivr to deliver content from our website as quickly as possible and in a technically flawless manner to various end user devices. The provider of this service is Prospect One sp. z o.o., Królewska 65A/1, PL-30-081 Kraków, Poland ("jsDelivr"). 
+
+jsDelivr is a content delivery network (CDN) that mirrors the content on our website across different servers to ensure optimal accessibility worldwide. To make this possible, a CDN always uses servers that are geographically close to the respective user of our website. It can therefore be assumed that users within the EU are also provided with content by servers within the EU. In order to display content, jsDelivr uses user data such as the IP address.
+
+According to the provider, jsDelivr does not set cookies or use other tracking mechanisms, but is only necessary for the technical reasons mentioned above. The legal basis for the transmission of personal data is therefore our legitimate interest in processing your personal data pursuant to Art 6 paragraph 1 lit f GDPR.
+
+jsDelivr keeps personal data, as long as it is necessary for the provision of the described service or for the fulfillment of legal obligations.
+
+To prevent this service, you can install a JavaScript blocker. However, this may result in the website no longer functioning as usual.
+
+For more information on the use of your data, please refer to the provider's privacy policy at https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net
+
+Meta-Pixel
+Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland, Parent Company: Meta Platforms, Inc (USA).
+Purpose: Web Analysis, Tracking (Conversion)
+Category: Marketing
+Recipients: EU, USA
+Data processed: IP Address, User Data, Website Visit Details
+Data subjects: Users
+Technology: JavaScript Call, Cookies
+Legal basis: Consent, Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Active
+Website: www.facebook.com
+Further information: https://en-gb.facebook.com/privacy/policy https://en-gb.facebook.com/business/help/742478679120153
+
+On our website, the service Meta-Pixel of the social network Facebook is used for the analysis, optimization and economic operation of our online offer.
+
+With the help of Meta-Pixel, it is possible for Meta, on the one hand, to determine the visitors to our website as a target group for the display of personalized ads. Accordingly, we use Meta-Pixel to display the ads placed by us only to users who have also shown an interest in our online offering or who have certain characteristics (e.g. interests in certain topics or products determined on the basis of the websites visited) that we transmit to Meta (so-called "Custom Audiences"). With the help of Meta-Pixel, we also want to ensure that our Meta Ads correspond to the potential interest of users and do not have a harassing effect. With the help of Meta-Pixel, we can, on the other hand, track the effectiveness of Meta Ads for statistical and market research purposes by seeing whether users were redirected to our website after clicking on a Meta Ad (so-called "conversion").
+
+Your actions are stored in one or more cookies in the process. These cookies allow Meta to match your user data (such as IP address, user ID) with your Facebook account data. The collected data is anonymous and not visible to us and can only be used in the context of advertisements. You can prevent the linking with your Facebook account by logging out before you take any action. 
+
+To set which types of ads are displayed to you within Facebook, you can visit the page set up by Meta and follow the instructions there for the settings of usage-based advertising: https://www.facebook.com/settings?tab=ads
+
+The settings are done in a platform-independent manner, which means that they are applied to all devices, such as desktop computers or mobile devices.
+
+Microsoft Advertising
+Provider: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA
+Purpose: User analysis, conversion measurement
+Category: Statistics
+Recipient: USA
+Processed data: IP address, details of the website visit
+Data subjects: Users
+Technology: JavaScript call, cookies
+Legal basis: Consent, EU-US Data Privacy Framework, https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000KzNaAAK&status=Active
+Website:
+Further information:
+https://privacy.microsoft.com/en-us/
+https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses
+https://help.ads.microsoft.com/#apex/3/en/53056/2
+Opt-out option: https://account.microsoft.com/privacy/ad-settings/signedout
+
+The Microsoft Advertising service (formerly Bing Ads) is used on our website to analyze and optimize its economic operation.
+
+Microsoft Advertising places cookies on users' devices that analyze user behavior on our website. This assumes that the user has reached our website via an advertisement from Microsoft Advertising. This provides us with information on the total number of users who clicked on such an ad, were redirected to our website and previously reached a specific target page (so-called conversion measurement). No IP addresses are stored and no personal information about the identity of our users is disclosed.
+
+Microsoft operates its own servers worldwide. Most of these are located in the USA. Microsoft stores data for as long as is necessary to provide its own services or products or for legal purposes. 
+
+Microsoft Clarity
+Provider: Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland, parent company: Microsoft Corporation, 1 Microsoft Way, Redmond, WA 98052 USA
+Purpose: Usability testing, creation of usage statistics
+Category: Statistics
+Recipient country: EU, third country (USA)
+Processed data: IP address, user behavior, information on website usage
+Data subjects: Website visitors
+Technology: JavaScript call, cookies
+Legal basis: Consent, certification according to EU-US Data Privacy Framework, Swiss-US Data Privacy Framework, UK Extension to EU-US Data Privacy Framework, use of standard contractual clauses (SCC)
+Website: https://clarity.microsoft.com/
+Further information:
+https://privacy.microsoft.com/privacystatement
+https://clarity.microsoft.com/terms
+https://learn.microsoft.com/compliance/regulatory/offering-eu-model-clauses
+https://www.microsoft.com/concern/privacy
+
+We use the Microsoft Clarity service on our website to statistically analyze the use of our website. Clarity offers features such as heatmaps, session replays and website usage reports to help us better understand user behavior and optimize our website.
+
+Microsoft Clarity uses cookies that enable us to analyze the use of our website, as well as a so-called tracking code that is executed when this service is called up. The information collected, such as your IP address, location, time or frequency of visits to our website, is transmitted to Microsoft and stored there. The data is used to create anonymized usage statistics. According to information from Microsoft, these can also be used for advertising purposes and other services related to the use of our website and the use of the Internet. 
+
+We use Microsoft Clarity with the so-called anonymization function. This function allows Microsoft to shorten the IP address within the EU or EEA. 
+
+Salesforce
+On our website, the CRM system of the provider salesforce.com Germany GmbH, Erika-Mann-Str. 31, 80636 Munich ("salesforce") is used for the efficient processing of user queries. The address of the US parent company is: The Landmark @ One Market Street, Suite 300, San Francisco, CA 94105, USA.
+Legal basis: Consent, Data Privacy Framework,
+https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000KzLyAAK&status=Active
+
+salesforce uses user data only for the technical processing of inquiries and does not pass them on to third parties. In order to use salesforce, it is necessary to provide at least a correct e-mail address. A pseudonymous use is possible. In the course of processing service requests, it may be necessary to collect further data (name, address). 
+
+We use this service for being able to answer user enquiries quickly and efficiently and possibly also to fulfil pre-contractual obligations. salesforce uses user data only for the technical processing of enquiries and does not pass them on to third parties. In order to use salesforce, it is necessary to provide at least a correct e-mail address. A pseudonymous use is possible. In the course of processing service requests, it may be necessary to collect further data (name, address).
+
+The use of salesforce is of course voluntary. If you do not agree, we offer you alternative contact options for submitting inquiries by e-mail, telephone or post. 
+
+For more information, please refer to salesforce's privacy policy: https://www.salesforce.com/de/company/privacy/. Salesforce is a certified licensee of the TRUSTe Privacy Seal.
+
+Stripe
+On our website, we use the payment service provider Stripe to process payments. The provider of this service is Stripe Inc, 510 Townsend Street San Francisco, California 94103. The European representative of this service provider is Stripe Payments Europe Ltd, North Wall Quay Dublin 1, Dublin, Ireland.
+Legal basis: Contract, Data Privacy Framework,
+https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000TQOUAA4&status=Active
+
+In the course of a payment transaction, we send the service provider the information you have provided regarding your ID data (such as name, address), your order and the data required to process the payment, such as bank data, possibly credit card number, invoice amount, currency, etc. The processing of this data is based on our obligation to fulfil the contract or is based on our legitimate interest in the proper execution of payments. The transfer of data takes place exclusively for the purpose of payment processing and only insofar as this is necessary for this purpose.
+
+We do not have direct access to the payment data entered by you, but we do receive information from the service provider as to whether payments could be properly processed. In the course of payment processing, the service provider may forward your data to a credit agency to check your creditworthiness. In this regard, we refer to the General Terms and Conditions and the privacy policy on the part of Stripe.
+
+Further information on data protection via this service can be found at https://stripe.com/privacy
+
+Webcare
+Provider: DataReporter GmbH, Zeileisstraße 6, 4600 Wels, Austria.
+Purpose: Consent Management
+Category: technically required
+Recipient: EU, AT
+Data processed: IP Address, Consent Data
+Data subjects: Users
+Technology: JavaScript call, Cookies, Swarmcrawler
+Legal basis: Legitimate interest, consent (swarmcrawler to evaluate search results)
+Website: https://www.datareporter.eu/
+Further information: https://www.datareporter.eu/de/privacystatement.html
+
+On our website, we use the Webcare tool for consent management. Webcare records and stores the decision of each user of our website. Our Consent Banner ensures that statistical and marketing technologies such as cookies or external tools are only set or started if the user has expressly consented to their use.
+
+We store information on the extent to which the user has confirmed the use of cookies. The user's decision can be revoked at any time by accessing the cookie setting and managing the declaration of consent. Existing cookies are deleted after revocation of consent. For the storage of information about the status of the consent of the user, a cookie is also set, which is referred to in the cookie details. Furthermore, the IP address of the respective user(s) is transmitted to DataReporter's servers when this service is called up. The IP address is neither stored nor associated with any other data of the user, it is only used for the correct execution of the service.
+
+With the help of Webcare, our website is regularly checked for technologies relevant to data protection. This investigation is only carried out for those users who have expressly given their consent (for statistical or marketing purposes). The search results of the users are evaluated by Webcare in an anonymous form and only in relation to technologies and used for the fulfillment of our information obligations. To start the Swarmcrawler technology, a request is sent to our servers and the IP address of the user is transmitted for the purpose of data transfer. Servers are selected which are geographically close to the respective location of the user. It can be assumed that for users within the EU, a server with a location within the EU will also be selected. The IP address of the user is not stored and is removed immediately after the end of the communication.
+
+Webcare Statistics
+The WebCare statistics function enables us to anonymously record the interactions of the users of our website with our Consent Banner. The statistics only record whether the Consent Banner was opened and which actions were carried out (purposes of consent, revocation). Only statistical data and no activities related to the specific user are stored. The visitor's IP address is only used for the purpose of the connection and is completely deleted after the connection is terminated.
+
+The use of the WebCare statistics function is based on our legitimate interest in reviewing the performance of our Consent Banner and the related accessibility of our online offer.
+
+The statistical data is stored for 30 days, older data is automatically deleted.
+
+You can find more information about this function in the provider's help section at: https://help.datareporter.eu/docs/webcare/webcare_consent_statistic/
+
+Further information on data protection can be found at: https://www.datareporter.eu/de/privacystatement.html
+
+1.6. FAST (Fingerprint automated Smarketer Tracking)
+General scope and description of data processing
+We use FAST to help us understand the effectiveness of our advertising. The data is automatically delet-ed after 90 days. We do not use the data for profiling purposes. FAST uses a unique key that cannot be duplicated by third parties. This ensures users remain completely anonymous. FAST does not allow per-sonalized advertising. 
+
+  
+FAST establishes a connection between a click on a piece of advertising, e.g. a banner ad, and a specific action, e.g. when a user has purchased something or registered on our platform. The information trans-mitted to us is used solely to help us understand how effective our advertising is and to enable us to as-sign the correct billing information. 
+
+  
+FAST does not store cookies or cookie-like data on your end device.
+
+  
+When generating the device fingerprint, only parameters that do not include personal data are merged (browser settings, time zone, CPU class, color depth, browser language setting etc.).
+
+   
+Scope and description of data processing when using Google Ads
+During a promotion, only the order number and value of the goods in the shopping cart are usually pro-cessed. We store this data for 90 days. Personal data, such as name, telephone number and address are not collected or stored in any way.
+
+  
+The following values can also be processed: 
+
+ID (consecutive number)
+ClickID
+Time of purchase
+Currency
+Conversion name (shop order or lead)   
+Google Tag Manager is used to process the device fingerprint; the data is transferred to the Smarketer Host-Europe server in Strasbourg and stored there.
+The data from the corresponding export files (Click ID, conversion name, timestamp, order value, curren-cy) is then transferred to Google Ireland Limited, Gordon House, Barrow Street Dublin 4, Ireland and stored on a Google server in the USA. This is carried out as part of the Google Ads service.
+The software is set up in such a way to ensure that no profiling takes place.
+
+   
+Legal basis for the processing of personal data
+The legal basis for the processing of the user's data is our legitimate interest in accordance with Art. 6 para.1 (f) of the GDPR in order to effectively measure the success of our advertising so that we can con-tinually improve our offerings.   
+
+   
+Purpose of data processing
+The information transmitted to us is used solely to help us understand how effective our advertising is and to enable us to assign the correct billing information in accordance with our legitimate interests.
+
+     
+Data retention period
+Data that is processed according to this policy is automatically deleted after being stored for no more than 90 days.
+
+  
+In order to use FAST, we have appointed the following service provider to process the data within the meaning of Art. 28 of the GDPR:
+Name: Smarketer GmbH
+Mailing address: Alte Jakobstrasse 83/84, 10179 Berlin
+Email: info@smarketer.de   
+
+  
+Objection and deletion options
+You can prevent FAST from tracking your data when you use our website by not agreeing to the "Marketing" category in the Consent Manager.
+
+  
+
+2. Payments
+For the payment of your purchases you or, if necessary, we must contract a payment service provider (also a processor) to carry out the transaction. In this process, specific (personal) (payment-related) data is transferred. The transfer of data takes place exclusively for the purpose of fulfilling our contract with you. In some cases, the selected payment service provider also collects this data themselves, particularly whenever you (must) create an account with them. For all payment transactions the privacy policy and the General Terms of Business of the provider in question applies.
+ The payment service providers we employ vary depending on your billing address. We will only forward your data to the service provider you selected for your payment. 
+
+3. Transfer of your personal data
+For the purposes explained in this privacy policy, we will transfer your (personal) data to the following recipients:
+
+ 
+Within our organisation, your data will be transferred to the offices and/or employees who need it to fulfil our contractual or legal obligations or where we have a legitimate interest to process your data.
+
+ 
+Furthermore, your data will be transferred to (external) data processors contracted by us, insofar as they require it to perform their duties (whereby the possibility of accessing personal data is sufficient). All data processors are contractually obliged to treat your data as confidential and only to process in order to provide their services. The following data processors receive your data:
+
+Customer management
+Analytics tools
+IT service providers and IT support used by us
+Marketing management
+Any logistics companies used for distributing the Silhouette Journal magazine
+Payment Provider
+We maintain a current list of types of data recipient and contractors.
+Some of the aforementioned recipients are located or process your (personal) data outside the EU. However, we take measures to guarantee that all recipients demonstrate appropriate privacy standards. For example, we agree to standardised contractual clauses which can be provided to you upon request. Alternatively, we use suppliers who are located in a country, which has an appropriate level of data protection under the GDPR (as per the adequacy decision by the European Commission).
+
+ 
+If we use any data processors, then, as stated, these are bound to our privacy guidelines and your personal data is also handled as strictly confidential. Under no circumstances will data processors transfer your data to third parties or use it without our explicit consent, for any purposes other than for the fulfilment of your obligations towards Silhouette, or for those based on our explicit instructions.
+
+4. Data subject’s rights
+One of the main objectives of data protection legislation is to grant you certain options for controlling your personal data after data processing has already begun. For this purpose, data subjects have various rights which we must observe immediately upon your request (or, in any case, within one (1) month of your request). 
+
+To exercise your rights, contact us at the following e-mail address:  
+dataprotection@silhouette-international.com. 
+
+Specifically, you have the following rights:
+
+ 
+(a) Should you exercise your right to information, and no legal restrictions apply, we will provide you with comprehensive information about our processing of your data. To do so, we will provide you with (i) copies of the data (e-mails, database excerpts, etc.), as well as information related to (ii) specifically processed data, (iii) processing purposes, (iv) categories of data being processed, (v) data recipients, (vi) storage limits and/or criteria for determining these, (vii) the origin of the data, and (viii) other information, as necessary, depending on your specific case. Please note, however, that we cannot issue any documents which could infringe upon the rights of other persons.
+
+ 
+(b) With your right to correction, you can request that we correct information that we have recorded incorrectly, that is no longer correct or that is incomplete (for the specific processing purposes in question). Your request will be evaluated, during which time you can request for the data processing in question to be restricted until the evaluation is complete.
+
+ 
+(c) The right to (data) deletion can be exercised (i) in the event that there is no necessity with regard to the processing purpose, (ii) in case you withdraw your consent, (iii) in case of a special objection, if the data processing in question is based on Silhouette’s legitimate interests, (iv) in case of improper data processing, (v) in the event that there is a legal requirement to delete the data, and (vi) in case of processing of personal data referring to minors under the age of 16.
+
+ 
+(d) In specific cases, the data subject has a right to restriction of processing. After this right is exercised, the data in question can only be stored. In addition to the option of restriction during the evaluation period for data corrections, this extends to (i) unlawful data processing (insofar as no deletion is requested) and (ii) the duration of the evaluation of a special objection, in accordance with Art. 21 paragraph 1 of the GDPR.
+
+ 
+(e) Furthermore, you have a fundamental right to object to data processing at any time. This only applies whenever the processing is based on Silhouette’s legitimate interests. Please note, however, that legitimate interests can only be invoked as a legal basis for processing activities in specific cases.
+
+ 
+(f) You can also exercise your right to complain to supervisory authorities (see point 9).
+
+ 
+(g) You also have the right to data portability. If you choose to exercise this right, you are entitled to receive the data in question in a structured, standard and machine-readable format and to transfer this data to another data controller or request for it to be transferred directly to another data controller.
+
+ 
+Please also note that in some cases we will be unable to comply with your request due to mandatory, protected reasons for processing (weighing of interests) and/or processing based on the exertion, exercise or defence of legal claims (on our side). The same applies in the case of excessive requests, in which case (as in the case of compliance with manifestly unfounded requests), a fee may be imposed.
+
+5. Data security, data deletion
+Silhouette takes all the suitable technical and organisational measures to ensure that, by default, personal data is only processed to the extent strictly necessary for the business purpose in question. The measures taken by Silhouette relate to the quantity of the collected data, the scope of the processing as well as the storage limits and accessibility of the data. Through these measures, Silhouette ensures that personal data is made available by default only to a strictly limited and necessary number of persons. No other persons are granted access to personal data without the explicit consent of the data subject. Furthermore, Silhouette uses various safety mechanisms (back-ups, encryption) to secure its website and other systems. These are intended to provide your (personal) data with the greatest possible level of protection against loss, theft, destruction, unauthorised access, modification or distribution.
+
+ 
+All Silhouette employees are adequately informed of all applicable regulations under data protection law as well as internal data protection rules and data security precautions. They are bound to confidentiality with respect to any information made known and/or accessible to them within the scope of their work. The provisions of the GDPR are strictly observed and personal data is only provided to individual employees to the extent necessary with regard to the purpose of the data collection and our obligations arising from it. If Silhouette engages processors, they are bound to us by specific framework agreements to act in accordance with our data protection practice.
+
+ 
+In accordance with the provisions of the GDPR, all (personal) data collected by us via our website shall only be stored for as long as necessary with regard to the legal grounds for processing them, unless a longer storage period is stipulated by law. We uphold our obligation to delete data with our company’s own internal data deletion procedure. We can provide you with further information about it, at your request.
+
+6. Links to Third-Party Websites
+On our website, we use links to third-party sites. These include reference links that direct you to our permanent partners, as well as links to social networks such as Facebook, Instagram and YouTube. If you click on any of these links, you will be redirected directly to the relevant web page. The only data that the website operators will receive is that you have come via our website. We therefore refer you to the privacy policies of these websites.
+
+ 
+You can read more about the purpose and scope of data collection and further processing by Facebook, as well as your rights and options for adjustment in Facebook’s Privacy Policy at the following link: https://de-de.facebook.com/policy.php. https://de-de.facebook.com/policy.php For the privacy policies of Instagram and YouTube, refer to: https://help.instagram.com/519522125107875 and https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&hl=de&visit_id=636927545803058837-989013203&rd=1
+
+ 
+These links to third-party sites, do not constitute any endorsement on our part to the contents that they may include. We are not responsible for the availability or content of such sites, nor do we assume any liability for damages or injuries incurred by the use of such content in any form whatsoever. By linking to third-party websites, we merely provide our users with access to use of the contents of those sites. The individual providers of those sites are solely responsible for any illegal, inaccurate or incomplete content and for any damages incurred by the use of those sites.
+
+7. Personalised marketing
+On our website, you have the option of registering for personalised product and service offers (trends, promotions, surveys and vouchers). You will receive selected product recommendations, surveys and requests for product ratings based on your interests by email, post or messaging service. When selecting individual product recommendations, we use data from your previous orders and activity on our website in accordance with statutory provisions.
+
+We use a variety of security measures, including encryption and authentication tools, to protect and maintain the security, integrity and availability of your personal information.
+Although data transmission over the Internet or via the website cannot be guaranteed to be free from cyber-attacks, we and our subcontractors and business partners work hard to put in place physical, electronic and procedural safeguards to protect your personal information in accordance with applicable data protection laws. We use measures such as:
+
+Severely limited personal access to your personal data on a need-to-know basis and only for the communicated purpose,
+transmission of the personal data collected only in encrypted form,
+storage of particularly sensitive personal data, such as credit card information, only in encrypted form,
+separation of functions in IT systems to prevent unauthorised access, e.g. by hackers,
+ongoing monitoring of access to the IT system in order to identify and prevent misuse of personal data.
+8. Newsletter, Silhouette Journal Magazine
+On our website you have the option of signing up to the Silhouette newsletter. To do so, you are required to submit your name and your e-mail address. We are also asking to submit your country of residence to receive more personalised information. We need the data to send you the newsletter and address you correctly (Art 6 paragraph 1 lit. b of the GDPR). Under no circumstances will any newsletter or other form of electronic marketing be sent without your prior consent. The Silhouette newsletter will also keep you up to date about the latest Silhouette products and trends and will only be sent to those who have voluntarily provided their e-mail address. Of course, should you wish to stop receiving the newsletter at any time, you can click on the “unsubscribe from the newsletter” button. Providing there is no further legal requirement or legal basis for processing it, the data stored for sending the newsletter will be deleted after you unsubscribe. We also use the newsletter to make statistical analyses regarding your personal data, and we measure the performance of the newsletter by monitoring if the newsletter is opened, what content is clicked on and technical information regarding sending the newsletter. Processing is carried out in line with our legitimate interest to produce readily accessible newsletter statistics that help our marketing efforts in a cost-effective way (Art. 6 paragraph 1 lit. f of the GDPR).
+
+ 
+We use the ‘Eyepin’ newsletter service operated by eyepin GmbH, Billrothstraße 52, 1190, Vienna, Austria. To utilise the service, the personal data you voluntarily provided will be stored on Eyepin’s servers in Austria and Germany. Your data will only be used in order to send you the newsletter that you ordered.
+
+ 
+On our website, you can also subscribe to the Silhouette Journal (“Journal”) magazine. To do so, you must provide your name, email address and postal address. This data is required to send you the journal and to address you correctly (Art. 6 paragraph 1 lit. b of the GDPR). Under no circumstances will the Journal be sent without your prior consent. The Journal informs you about the latest Silhouette products and current trends and is sent exclusively to the postal addresses provided by the subscribers. If you no longer wish to receive the Journal, you can unsubscribe to it at any time by filling out the contact form on our website at https://www.silhouette.com/contact. The data collected for distribution of the Journal will be deleted after any such de-registration (unless the law stipulates otherwise or there is another legal basis for processing the data).
+
+9. Virtual Try-On
+Via our website, you have the opportunity to try on selected eyeglasses virtually ("virtual try on"), providing you with the option to thereby receive a first, telling impression of several available Silhouette products by seeing how you would look with different eyeglasses you are interested in. In order to start a virtual try on, you have to visit our website with an end device that supports a camera function and grant us access to the camera of that device. Subsequently, the virtual try on program implemented on our website will record your face. For this purpose, you have to follow the instructions provided and move your face accordingly; in the course of the virtual try on, you will also be asked to hold a plastic card in credit card format in front of your face – please ensure that only the back of the card is captured by the camera respectively that the camera does not capture any personal information on the card if possible. Lastly, the virtual try on program will create pictures from your recording that show you with the eye-glasses selected in each case. Please be aware that the virtual try on program processes insights about your face shape and other key measurements, and that the pictures to be created from you are prepared by using such biometric information in order to achieve higher credibility. Biometric data (cf. Art 4 item 14 GDPR) constitute a special category of personal data in the sense of Art 9 GDPR (so-called: sensitive data) and enjoy increased protection.
+
+ 
+Purpose of the processing of your personal data within this context is to provide our users respectively customers with a useful function that gives them access to tailor-made preview images of our product range, effectively facilitating purchase decisions of our customers from a factual as well as temporal point of view. Legal basis of the processing is your prior, express consent pursuant to Art 9 para 2 lit a GDPR in conjunction with Art 6 para 1 lit a GDPR. For the execution of the virtual try on program, we use Ditto Technologies, Inc., 888 Villa Street, Suite 310, Mountain View, CA 94041, USA as our processor in the sense of Art 28 GDPR. Any recordings/pictures created from your face are stored solely on European servers of Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855 Luxembourg located in Ireland. Within this context, Amazon Web Services EMEA SARL acts as (another) processor of Ditto Technologies, Inc. in the sense of Art 28 para 4 GDPR (sub-processor). After you have created your pictures, you may access them within one (1) year via your user account, as far as a user account function is provided for your target country, or via a session cookie with a lifetime of ninety (90) days stored in your browser software. You will receive automatic access merely by reopening the virtual try on page, as long as – in respect of access gained via session cookie – you did not delete cookies stored in your browser manually in the meantime. The storage time on the server is two (2) years. You may achieve erasure of your data at any time by withdrawing your consent given for such processing; however, any data processing that was conducted on the basis of your consent until this point does not become unlawful retroactively in case such consent is withdrawn.
+
+  
+PLEASE NOTE! Within the scope of the virtual try on function, data are transferred to the US or such a transfer cannot be excluded. Please carefully review our respective explanations on the matter in order to gain a better understanding of the specific risks entailed by a transfer of your data to the US. In case such transfer takes place, we have agreed upon the application of standard contractual clauses with Ditto Technologies, Inc.
+
+10. Click & Collect
+In case this feature is available in your respective target country, we provide you with the opportunity to order selected eyeglasses via our website using the so-called "Click & Collect function". This allows you to have such products sent directly to a participating optician ("Click & Collect Partner") in your area free of charge in order to test them without assuming any obligation and – where necessary – make use of further product-related services. In order to do so, you may choose a date via the Click & Collect function which will then be reserved for you accordingly. The final decision whether you purchase the ordered products or not is up to you.
+
+  
+As part of the Click & Collect function, we collect your identity and contact data. Purpose of the processing of your data is to allow us to offer you a larger and customised selection of our products directly at your local Click & Collect Partner, without any necessity for the Click & Collect Partner to keep our full range of products in stock. In that respect, administration and processing requires the transfer of your personal data to (i) our countryspecific subsidiary in your respective target country (whereby Austria constitutes an exemption as Silhouette itself assumes the tasks and functions of the subsidiary) and (ii) to the Click & Collect Partner of your choice. You can find the subsidiary being relevant in your particular case as well as its contact data under http://www.silhouette-international.com/silhouette/contact/locations/index.en.php by selecting the sorting option "Subsidiary" and then clicking on the respective company outlined in regards to your target country. Legal basis of the processing is your prior consent according to Art 6 para 1 lit a GDPR.
+
+ 
+With respect to the Click & Collect program, Silhouette, the respective subsidiary as well as the Click & Collect Partner of your choice are to be considered joint controllers for the processing of your personal data in the sense of Art 26 GDPR. In accordance with the respective joint controller agreement concluded between the aforementioned parties, Silhouette shall act as the central point of contact for any communication requests by data subjects, and shall primarily take care of overall compliance with the stipulations of the GDPR in this regard. In accordance with Art 13 GDPR, we shall provide you with all statutory information as required by law in the course of the depictions of this point (respectively, in general, within this privacy policy). We would ask you to exercise your rights as a data subject (Art 15–22 GDPR) directly towards Silhouette. However, please take note that by doing so you only facilitate the fulfilment of our duties – you are in no way obligated to exercise your rights as a data subject towards a specific controller; thus, you are free to address any of the joint controllers with your request.
+
+ 
+The transfer of your personal data to the respective subsidiary as well as the Click & Collect Partner of your choice is limited to what is strictly necessary for the processing purpose. As the management of relations with opticians, in general, lies with our subsidiaries, the transfer of your data to the subsidiary serves the purpose of administrating the relationship with the Click & Collect Partner of your choice. The Click & Collect Partner itself processes your personal data for the purpose of managing its schedule as well as to be able to appropriately address you as its customer. Any personal data collected in the course of the Click & Collect program are to be erased by all controllers within six (6) months from your appointment with the Click & Collect Partner of your choice, or at least not processed anymore for the purpose of the execution of the Click & Collect program (where further processing for other purposes by one of the controllers is necessary and legitimate). You may also withdraw your consent for the processing at any time, which entails the erasure of your personal data as well; however, any data processing that was conducted on the basis of your consent until this point does not become unlawful retroactively in case such consent is withdrawn.
+
+11. Right of Complaint
+If you decide that we have infringed against incumbent data privacy laws, you have the right to file a complaint with the relevant national data protection authority. The requirements for such a complaint are based on § 24ff of the Austrian Data Protection Act (DSG). However, we encourage you to contact us before filing a complaint so that we can resolve any questions or problems.
+
+ 
+Below are the contact details of the relevant Data Protection Authority:
+
+ 
+Österreichische Datenschutzbehörde
+Barichgasse 40-42, 1030 Wien, Österreich
+Tel.: +43 1 52 152-0, dsb@dsb.gv.at
+
+ 
+Furthermore, you have the option under Art. 79 of the GDPR to file a complaint directly with the national court within whose jurisdiction your regular place of residence is located and/or alternatively with the national court within whose jurisdiction we are located. This is restricted to claims of violation of your rights under section 5 of this privacy policy.
+
+12. Contact Details for Data Protection Questions, Messages and Requests
+Please send questions, notifications or requests regarding data protection law to the following contact address:
+
+ 
+Silhouette International Schmied AG | silhouette.com
+Postfach 538, Ellbognerstrasse 24
+4020 Linz
+Austria
+
+E-mail: dataprotection@silhouette-international.com
+
+12. United States Citizens
+If you are a citizen of the United States accessing this website, in addition to the information referenced above in the General Privacy Policy, please review this United States Privacy Notice. As a reminder, by accessing, interacting with and/or using this website, you agree to all the terms of this policy, including this US specific section. If you are a United States Citizen (“US Citizen”), Section 4, 10, and any general reference to consumers rights under the General Data Protection Regulation or transfer of data into the United States in the General Privacy Policy is not applicable to your use and or/rights concerning your data and this website. 
+
+  
+A. DATA WE COLLECT ABOUT UNITED STATES CITIZENS
+Silhouette collects the same personal information about United States Citizens as citizens of other jurisdictions, including (but not limited) to name, email address, address, and IP address. For more information, see Section 1 above.  
+
+  
+Our Website is not intended for children under 13 years of age. No one under age 16 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at dataprotection@silhouette-international.com 
+
+  
+California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. Please see the California Consumer Addendum below. 
+
+  
+B.  HOW IS YOUR PERSONAL DATA COLLECTED?  
+
+  
+Silhouette uses the same technology to collect personal information about United States Citizens as citizens of other jurisdictions, such as payment information, newsletter subscription information, contact information, user account information, and information collected through automated technologies. For more information, see Section 1.4, 3, 8 and 10 above. 
+
+  
+If you agree to use the Virtual Try-On, as outlined in Section 8, the virtual try on program processes insights about your fact shape and other key measurements, and that picture and information may be considered biometric information under specific state laws. The purpose of this collection and processing is to give them our customers access to tailor-made preview images of our products and to assist with purchase decisions. 
+
+  
+C. HOW DOES SILHOUETTE USE UNITED STATE CITIZEN’S PERSONAL DATA?
+
+  
+We may use your personal data for the following purposes:
+
+To register you as a new customer
+To process and deliver your order including: (a) Manage payments, fees and charges (b) Collect and recover money owed to us
+To manage our relationship with you which will include: (a) Notifying you about changes to our terms or privacy notice (b) Asking you to leave a review or take a survey
+To enable you to partake in an event, prize draw, competition or complete a survey
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+To use data analytics to improve our website, stores, products/services, marketing, customer relationships and experiences
+To make suggestions and recommendations to you about goods or services that may be of interest to you.
+  
+Promotional Communications
+You can ask us or third parties to stop sending you email marketing messages at any time by following the opt-out links on any marketing message sent to you, by contacting us, or by opting out via the cookie consent tool at any time.
+
+  
+You can ask us or third parties to stop sending you postal marketing communications by contacting us on through the contact form under www.silhouette.com/contact.  
+
+  
+Opting out of marketing messages will not prevent you receiving non-marketing messages from us, for example relating to products ordered from us, responses to customer service queries etc.
+
+  
+Disclosure of Your Information for Third-Party Advertising (Including Online Behavioral Advertising):
+
+  
+Silhouette collects data for online behavior advertising purposes, including through the use of tools and plugins on our Website, such as Facebook-Pixel and Google Marketing Platform/Google Ad Manager. Silhouette then discloses this information to third parties for advertising purposes. For more information, please see Sections 1.4 and 1.5. 
+
+  
+If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by sending us an email with your request to dataprotection@silhouette-international.com, by opting out of cookie collection through the cookie tool, or by following this link to the Digital Advertising Alliance’s  (DAA) WebChoices Tool.  
+
+  
+We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+
+  
+By exercising your right to choose, your choice will stop the collection and transfer of data from the browser from which the choice is exercised and on any browsers or devices associated with that browser. 
+
+  
+California Residents:
+California residents may have additional personal data rights and choices. Please see Section F: California Privacy Rights Addendum for more information. 
+
+  
+D. WHY WE COLLECT YOUR PERSONAL DATA
+The personal data we collect is used so that we can bring our services and products to you.  Your personal data is collected for our legitimate business interests or those of our service providers as outlined below:
+
+To allow the performance of services and products we provide throughout our platforms.
+To make sure we can keep in touch with you to provide these services.
+To allow us to be efficient so that we can deliver the best services possible.
+To prevent and detect criminal and/or fraudulent activity that would be damaging to you and/or us. 
+To promote our business to new and existing customers.
+We (and our service providers) may share your personal data in the following situations:
+
+With website providers:  We may share your personal data with website providers to monitor and analyze the use of our Websites.
+With service providers:  We may share your personal data with service providers to help us deliver our services to you.
+For business transfers: We may share or transfer your personal data in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of our business by another company.
+With affiliates:  We may share your personal data with our affiliates.  
+With business partners:  We may share your personal data with our business partners to offer you certain products, websites, or promotions.
+With third party vendors:  We may share your personal data with third party vendors to provide behavioral remarketing or advertising services. 
+  
+E. DISCLOSURE OF YOUR PERSONAL DATA
+
+In addition to those reasons as set out in the General Privacy Policy, we may have to share your personal data with parties as set out below: 
+
+ 
+Law Enforcement
+We may disclose your personal data if we are required by law to do so or in response to legitimate requests of public authorities (e.g., a court or government agency).
+
+  
+Disclosure Through Business Transfers
+We may buy, merge, or partner with another company or business and in doing so acquire or transfer personal data.  Personal data collected through the Websites may be among the transferred business assets.  In the event of an acquisition or merger, your personal data may be transferred so that we may continue to sell products to you.  In the course of such a transaction your personal data would likely be considered a business asset, and, notwithstanding limitations imposed by applicable data privacy legislation, you hereby agree to such a transfer.
+
+  
+Other Reasons for Disclosure
+We may disclose your personal data in the good faith belief that such action is necessary to:
+
+Comply with a legal obligation
+Protect and defend the rights of Silhouette
+Prevent or investigate possible wrongdoing in connection with the Services
+Protect the personal safety of users of the Services or the public
+Protect against legal liability
+To fulfill the purpose for which you provide it. 
+Third Party Service Providers
+
+We may share your information with third parties as outlined in the General Privacy Policy, including those required for making payments as outlined in Section 2. 
+
+  
+Some third parties have their own privacy policies with respect to the information we are required to provide to them for your purchase-related transactions.  For these providers, we recommend that you read their privacy policies to learn about the manner in which your personal data will be handled by these providers.
+
+  
+In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or us. If you elect to proceed with a transaction that involves the services of a third-party service provider, your personal data may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+Once you leave our Websites and are redirected to a third-party website or application, including through the use of links as described below, you are no longer governed by this Policy as described in Section 6 of the General Privacy Policy. 
+
+  
+F.  California Privacy Rights Addendum
+
+If you are a California resident, you have certain data protection rights.  This Addendum supplements the information contained in the United States Privacy Policy Section above, and applies solely to all visitors, users, and others who reside in the state of California. Under the California Consumer Privacy Act of 2018 (CCPA) and California Civil Code § 1798.83, you have the right to exercise the following rights (as outlined further throughout this addendum): 
+
+  
+(a) The individualized right to know:  
+    a. what personal information a business collected, sold, or disclosed about them, including the categories of third parties who purchased or received their data; and
+    b. the specific pieces of personal information held (data portability right).
+(b) The right of deletion
+(c) The right to opt-out of the sale of your personal information
+(d) Freedom from discrimination
+
+  
+Disclosures of Personal Data We Collect
+
+You have the right to request that we disclose certain information to you about our collection and use of your personal data over the past 12 months (the "right to know"). Once we receive your request and confirm your identity, we will disclose to you: 
+
+The categories of personal data we have collected about you
+The categories of sources from which we have collected Personal data 
+Our business or commercial purpose for collecting or selling Personal data 
+The categories of third parties with whom we share Personal data
+The specific pieces of personal data we have collected about you
+Information We Collect 
+
+Our Website has collected the same personal information from California consumers within the last twelve (12) months as outlined in the general privacy policy, including but not limited to identifiers, personal information categories listed in California Consumer Records statute, commercial information, internet or other network activity, geolocation data, and inferences drawn from other personal information. 
+
+  
+Personal Data We Sell or Use for a Business Purpose
+
+In connection with any personal data we may sell or disclose to a third party for business purposes, you have the right to know:
+
+The categories of personal data that we sold
+The categories of third parties to whom Personal data was sold
+The categories of personal data that we disclosed for a business purpose
+We do not sell personal information as defined under the California Consumer Privacy Act. 
+
+In the preceding twelve (12) months, our Website has collected the following categories of personal information from customers:
+
+Category	We Collected such Personal Information for the Following Purpose
+Identifiers such as name, mailing address, phone number, IP address, email address, and 	We may use this information for any of the purposes described in Section 1.3 above
+Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) including name, address, telephone number and credit card number 	We may use this information for any of the purposes described in Section 1.3 and 2 above 
+Protected classification characteristics under California or federal law 	N/A
+Commercial information including records of products purchased, obtained, or considered, or other purchasing or consuming histories or tendencies	We may use this information for any of the purposes described in Section 1.4. 
+Biometric information	We may use this information for any purpose as described in Section 8. 
+Internet or other similar network activity including browsing history, how you use our website, information collected by cookies and your preferences 	We use this information for any of the purposes described in Section 1.4 above and to support reporting and marketing purposes 
+Geolocation data 	If Customer activates the google maps feature, geolocation data may be collected by Google Maps. Such collection is subject to Google Maps privacy policy and terms. More information is described in Section 1.5. 
+Sensory data 	N/A
+Professional or employment-related information 	N/A
+Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)) 	N/A
+Inferences drawn from other personal information 	N/A
+Over the past twelve (12) months, we may have disclosed the categories of Personal Information listed above as necessary to fulfill our business purposes. Such disclosures include sharing such information with analytics tools, social media networks, marketing and customer management provider, IT service providers, payment gateways and other payment transaction processors, and other service providers. 
+
+  
+Right to Deletion 
+
+Subject to certain exceptions set out below, upon receipt of a verifiable request from you, we will:
+
+Delete your personal data from our records; and
+Direct any service providers to delete your personal data from their records. 
+Please note that we may not delete your personal data if it is necessary to:
+
+  
+
+Complete the transaction for which your personal data was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between us and you
+Detect and protect against security incidents, fraudulent or illegal activity, or for prosecuting those responsible for such activity
+Debug, identify, or repair errors that impair existing functionality
+Exercise free speech
+Comply with the California Electronic Communications Privacy Act
+Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all applicable ethics and privacy laws
+Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us
+Comply with an existing legal obligation 
+Otherwise use your personal data, internally, in a lawful manner that is compatible with the context in which you provided the information 
+Exercising Right to Know or Delete
+
+To exercise your rights to know or delete described above, please submit a request by either:
+
+  
+Calling us at: 1800.223.0180
+Emailing us at dataprotection@silhouette-international.com
+Through our website on our contact form via www.silhouette.com/us/us/contact 
+
+  
+Only you, or someone legally authorized to act on your behalf, may make a request to know or delete related to your personal data. 
+
+  
+You may only submit a request to know twice within a 12-month period. Your request to know or delete must 
+
+  
+
+provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal data or an authorized representative. 
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+  
+We cannot respond to your request or provide you with personal data if we cannot verify your identity or authority to make the request and confirm the personal data relates to you.
+
+  
+We will only use personal data provided in the request to verify the requestor's identity or authority to make it.
+
+  
+We will confirm receipt of your request within ten (10) business days. If you do not receive confirmation within the 10-day timeframe, please get in touch via our contact form via www.silhouette.com/us/us/contact. 
+
+  
+We endeavor to substantively respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to another 45 days), we will inform you of the reason and extension period in writing.
+
+  
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+  
+Any disclosures we provide will only cover the 12-month period preceding our receipt of your request. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal data that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance. 
+
+  
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+  
+Protection Against Discrimination
+
+You have the right not to be discriminated against by us because you exercised any of your rights under the CCPA.  This means we cannot:
+
+  
+
+Deny goods or services to you
+Provide a different level or quality of services to you
+  
+Please note that we may charge a different price or rate to you if that difference is reasonably related to the value provided to us by your personal data.
+
+  
+California’s Shine the Light Law
+
+In addition to CCPA, California Civil Code § 1798.83 permits users that are residents of California to request the following information regarding our disclosure of your personal data to third parties for those third parties’ direct marketing purposes: (i) a list of certain categories of personal data that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year; (ii) the identity of certain third parties that received personal data from us for their direct marketing purposes during that calendar year; and (iii) where the nature of the third parties’ business is not reasonably determinable, examples of the products or services marketed (if we have that information) . If you are a California resident and would like to make such a request, please email us at dataprotection@silhouette-international.com
+
+  
+“Do Not Track” Policy as Required by California Online Privacy Protection Act (CalOPPA)
+
+  
+The Services does not respond to or support Do Not Track (“DNT”) signals.  
+Do Not Track is a preference you can set in your web browser to inform websites you do not want to be tracked.  You can enable or disable DNT by visiting the preferences or settings page of your web browser.
+
+  
+Changes to Our California Addendum 
+
+We reserve the right to amend this California Addendum at our discretion and at any time. When we make changes to this privacy policy, we will post the updated notice on the Website and update the notice's effective date. Your continued use of our Website following the posting of changes constitutes your acceptance of such changes.
+
+ 
+Download as PDF
+
+Find a retailer near you.
+Which town are you looking in?
+Find a retailer
+Silhouette newsletter
+Your email
+Subscribe
+#empoweredbylightness
+SUN
+SUN
+SUN TMA Cosmic
+Journal
+Newsletter
+Contact
+Stories
+Retailer search
+Sunglasses
+Optical Eyewear
+Luxury
+Brand
+Press
+Lookbook
+Virtual Try-On
+Data privacy
+Legal Notice
+Help / FAQ
+Company
+Careers
+B2B Shop old
+Partner-Portal
+ Canada 
+silhouette.com  Data privacy
