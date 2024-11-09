@@ -1,12 +1,12 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-import openai
 from openai import OpenAI
-import os
+from haystack.components.builders import ChatPromptBuilder
+from haystack.components.generators.chat import OpenAIChatGenerator
+from prompt_templates import main_prompt_template
 from dotenv import load_dotenv
 
 load_dotenv()
-
 
 app = FastAPI(
     title="Privacy Policy Summarizer",
@@ -18,28 +18,18 @@ app = FastAPI(
 class PrivacyPolicyInput(BaseModel):
     privacy_policy: str
 
+generator = OpenAIChatGenerator(model="gpt-4o")
+prompt_builder = ChatPromptBuilder()
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 @app.post("/summarize_privacy_policy")
 async def summarize_privacy_policy(input: PrivacyPolicyInput):
     try:
-    
-        client = OpenAI()
-        completion = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant that reads privacy policies and summarizes the key points a user should be aware of. Highlight any areas that could be considered risky or dangerous.\n\n"},
-                {
-                    "role": "user",
-                    "content": f"Privacy Policy:\n\n{input.privacy_policy}\n\nGive me a summary (with risky areas highlighted in RED):"
-                }
-            ]
-        )
-
-        summary = completion.choices[0].message.content
-
-        return {"summary": summary}
+        builder = ChatPromptBuilder(template=main_prompt_template)
+        prompt = builder.run(privacy_policy=input.privacy_policy)
+        response = generator.run(prompt["prompt"])["replies"][0]
+        return {"summary": response.content}
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
