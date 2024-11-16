@@ -1,14 +1,6 @@
 // import { MAIN_PROMPT_TEMPLATE } from "./constants.js";
 
 chrome.action.onClicked.addListener((tab) => {
-  // const apiKey = localStorage.getItem("apiKey");
-
-  // if (apiKey) {
-  //   console.log("API key found");
-  // } else {
-  //   console.log("No API key found.");
-  // }
-
   chrome.scripting.executeScript({
     target: { tabId: tab.id },
     files: ["contentScript.js"],
