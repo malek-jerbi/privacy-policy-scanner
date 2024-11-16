@@ -9,12 +9,13 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         chrome.tabs.sendMessage(
           activeTab.id,
           { action: "processPrivacyPolicy" },
-          async (response) => {
+          (response) => {
             if (response && response.text) {
               const prompt = MAIN_PROMPT_TEMPLATE.replace(
                 "{{privacy_policy}}",
                 response.text
               );
+
               fetch("https://api.openai.com/v1/chat/completions", {
                 method: "POST",
                 headers: {
@@ -22,28 +23,30 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                   Authorization: `Bearer ${message.apiKey}`,
                 },
                 body: JSON.stringify({
-                  model: "gpt-4",
+                  model: "gpt-4o",
                   messages: [{ role: "user", content: prompt }],
-                  max_completion_tokens: 800,
                   temperature: 0.2,
+                  response_format: { type: "json_object" },
                 }),
               })
                 .then((response) => response.json())
                 .then((data) => {
-                  console.log("Received summary from LLM:", data);
+                  let content = data.choices[0].message.content;
+
+                  console.log("Received summary from LLM:", content);
                   // Send the summary back to the content script
                   chrome.tabs.sendMessage(activeTab.id, {
                     action: "displaySummary",
-                    summary: data,
+                    summary: content,
                   });
                 })
                 .catch((error) => {
                   console.error("Error communicating with LLM API:", error);
                   // Send an error message back to content script
-                  // chrome.tabs.sendMessage(sender.tab.id, {
-                  //   action: "displayError",
-                  //   error: "Failed to get summary from LLM.",
-                  // });
+                  chrome.tabs.sendMessage(activeTab.id, {
+                    action: "displayError",
+                    error: "Failed to get summary from LLM.",
+                  });
                 });
             } else {
               console.error("No response from content script.");

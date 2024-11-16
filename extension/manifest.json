@@ -3,7 +3,7 @@
   "name": "Privacy Policy Summarizer",
   "version": "1.0",
   "description": "Summarizes privacy policies on the page when activated.",
-  "permissions": ["scripting", "storage"],
+  "permissions": ["scripting", "storage", "activeTab", "tabs"],
   "host_permissions": ["<all_urls>"],
   "action": {
     "default_title": "Summarize Privacy Policy",

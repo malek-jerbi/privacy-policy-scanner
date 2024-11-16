@@ -63,7 +63,7 @@ You are a helpful assistant that reads privacy policies and provides a comprehen
 - Please follow this structure closely to ensure the analysis is detailed and helpful.
 
 **Privacy Policy:**
-{{ privacy_policy }}
+{{privacy_policy}}
 
 **JSON Analysis:**
 `;

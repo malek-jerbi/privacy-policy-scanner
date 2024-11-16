@@ -3,11 +3,31 @@ const openaiApiKey =
 
 const formDiv = document.getElementById("form");
 const appDiv = document.getElementById("app");
+const container = document.getElementById("privacy-summary-container");
 
-/* check if API key is already stored in localStorage. 
+document.addEventListener("DOMContentLoaded", () => {
+  // Save API Key to localStorage and make API call
+  const saveButton = document.getElementById("saveKey");
+  const keyField = document.getElementById("key");
+
+  saveButton.addEventListener("click", () => {
+    const apiKey = keyField.value.trim();
+
+    if (isValidApiKey(apiKey)) {
+      localStorage.setItem("apiKey", apiKey);
+
+      formDiv.classList.add("hidden");
+      appDiv.classList.remove("hidden");
+
+      makeApiRequest(apiKey);
+    } else {
+      statusMessage.textContent = "Please enter a valid API Key.";
+    }
+  });
+
+  /* check if API key is already stored in localStorage. 
   If it is, skip the form and make API call right away. 
   If it's not, proceed as usual. */
-document.addEventListener("DOMContentLoaded", () => {
   localStorage.setItem("apiKey", openaiApiKey);
   const apiKey = localStorage.getItem("apiKey");
   if (apiKey) {
@@ -31,68 +51,52 @@ async function isValidApiKey(apiKey) {
   }
 }
 
-// Save API Key to localStorage and make API call
-saveKey.addEventListener("click", () => {
-  const apiKey = apiKeyInput.value.trim();
-
-  if (isValidApiKey(apiKey)) {
-    localStorage.setItem("apiKey", apiKey);
-
-    formDiv.classList.add("hidden");
-    appDiv.classList.remove("hidden");
-
-    makeApiRequest(apiKey);
-  } else {
-    statusMessage.textContent = "Please enter a valid API Key.";
-  }
-});
-
 function makeApiRequest(apiKey) {
   chrome.runtime.sendMessage({ action: "apiKeySet", apiKey: apiKey });
 
-  const summaryDiv = document.getElementById("summary");
+  // const summaryDiv = document.getElementById("summary");
 
-  function displaySummary(data) {
-    summaryDiv.innerHTML = ""; // Clear previous content
-    data.privacyPolicySummary.summary.forEach((item, index) => {
-      const p = document.createElement("p");
-      p.className = "summary-item";
+  // function displaySummary(data) {
+  //   summaryDiv.innerHTML = ""; // Clear previous content
+  //   data.privacyPolicySummary.summary.forEach((item, index) => {
+  //     const p = document.createElement("p");
+  //     p.className = "summary-item";
 
-      const textSpan = document.createElement("span");
-      textSpan.textContent = `${index + 1}. ${item.text}`;
+  //     const textSpan = document.createElement("span");
+  //     textSpan.textContent = `${index + 1}. ${item.text}`;
 
-      if (item.risky) {
-        textSpan.classList.add("risky");
-      } else {
-        textSpan.classList.add("not-risky");
-      }
+  //     if (item.risky) {
+  //       textSpan.classList.add("risky");
+  //     } else {
+  //       textSpan.classList.add("not-risky");
+  //     }
 
-      p.appendChild(textSpan);
-      summaryDiv.appendChild(p);
-    });
-  }
-
-  // Initial attempt to load summary
-  chrome.storage.local.get(["privacyPolicySummary"], (data) => {
-    console.log("Data retrieved from chrome.storage.local:", data);
-
-    if (data.privacyPolicySummary && data.privacyPolicySummary.summary) {
-      displaySummary(data);
-    } else {
-      summaryDiv.textContent = "No summary available yet.";
-    }
-  });
-
-  // Listen for changes in chrome.storage.local
-  chrome.storage.onChanged.addListener((changes, areaName) => {
-    if (areaName === "local" && changes.privacyPolicySummary) {
-      console.log("Storage changed:", changes);
-
-      if (changes.privacyPolicySummary.newValue) {
-        displaySummary({
-          privacyPolicySummary: changes.privacyPolicySummary.newValue,
-        });
-      }
-    }
-  });
+  //     p.appendChild(textSpan);
+  //     summaryDiv.appendChild(p);
+  //   });
 }
+
+// // Initial attempt to load summary
+// chrome.storage.local.get(["privacyPolicySummary"], (data) => {
+//   console.log("Data retrieved from chrome.storage.local:", data);
+
+//   if (data.privacyPolicySummary && data.privacyPolicySummary.summary) {
+//     displaySummary(data);
+//   } else {
+//     summaryDiv.textContent = "No summary available yet.";
+//   }
+// });
+
+// // Listen for changes in chrome.storage.local
+// chrome.storage.onChanged.addListener((changes, areaName) => {
+//   if (areaName === "local" && changes.privacyPolicySummary) {
+//     console.log("Storage changed:", changes);
+
+//     if (changes.privacyPolicySummary.newValue) {
+//       displaySummary({
+//         privacyPolicySummary: changes.privacyPolicySummary.newValue,
+//       });
+//     }
+//   }
+// });
+// }

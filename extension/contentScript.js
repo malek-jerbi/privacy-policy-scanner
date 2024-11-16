@@ -24,69 +24,11 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
 // Function to display the summary on the page
 function displaySummaryOnPage(summaryData) {
-  // Create a container for the summary
-  const container = document.createElement("div");
-  container.id = "privacy-summary-container";
-  container.style.position = "fixed";
-  container.style.top = "10px";
-  container.style.right = "10px";
-  container.style.width = "400px";
-  container.style.maxHeight = "80vh";
-  container.style.overflowY = "auto";
-  container.style.backgroundColor = "#fff";
-  container.style.border = "1px solid #ccc";
-  container.style.padding = "15px";
-  container.style.zIndex = "9999";
-  container.style.boxShadow = "0 2px 10px rgba(0,0,0,0.2)";
-  container.style.fontSize = "14px";
-  container.style.lineHeight = "1.4";
-  container.style.color = "#333";
-  container.style.fontFamily = "Arial, sans-serif";
-
-  // Create a header
-  const header = document.createElement("div");
-  header.style.display = "flex";
-  header.style.justifyContent = "space-between";
-  header.style.alignItems = "center";
-
-  const title = document.createElement("h2");
-  title.textContent = "Privacy Policy Analysis";
-  title.style.fontSize = "16px";
-  title.style.margin = "0";
-  title.style.flexGrow = "1";
-
-  const closeButton = document.createElement("button");
-  closeButton.textContent = "×";
-  closeButton.style.background = "transparent";
-  closeButton.style.border = "none";
-  closeButton.style.fontSize = "20px";
-  closeButton.style.cursor = "pointer";
-  closeButton.style.color = "#555"; // Dark gray for visibility
-  closeButton.style.marginLeft = "10px";
-
-  // Hover effect to make it stand out when hovered
-  closeButton.addEventListener("mouseenter", () => {
-    closeButton.style.color = "#FF0000"; // Red on hover
-  });
-  closeButton.addEventListener("mouseleave", () => {
-    closeButton.style.color = "#555"; // Return to dark gray when not hovered
-  });
-
-  // Event listener to close the container
-  closeButton.addEventListener("click", () => {
-    container.remove();
-  });
-
-  header.appendChild(title);
-  header.appendChild(closeButton);
-  container.appendChild(header);
-
-  // Add a horizontal separator
-  const separator = document.createElement("hr");
-  container.appendChild(separator);
+  const summary = document.getElementById("summary");
 
   // Add the analysis sections
   const analysis = summaryData.analysis;
+
   if (analysis && Array.isArray(analysis)) {
     analysis.forEach((item) => {
       const sectionDiv = document.createElement("div");
@@ -119,7 +61,7 @@ function displaySummaryOnPage(summaryData) {
       sectionDiv.appendChild(scoreText);
       sectionDiv.appendChild(explanationText);
 
-      container.appendChild(sectionDiv);
+      summary.appendChild(sectionDiv);
     });
   }
 
@@ -134,8 +76,8 @@ function displaySummaryOnPage(summaryData) {
     overallSummaryText.textContent = summaryData.summary;
     overallSummaryText.style.margin = "5px 0";
 
-    container.appendChild(overallSummaryTitle);
-    container.appendChild(overallSummaryText);
+    summary.appendChild(overallSummaryTitle);
+    summary.appendChild(overallSummaryText);
   }
 
   // Add Pros and Cons
@@ -176,7 +118,7 @@ function displaySummaryOnPage(summaryData) {
     prosConsDiv.appendChild(consTitle);
     prosConsDiv.appendChild(consList);
 
-    container.appendChild(prosConsDiv);
+    summary.appendChild(prosConsDiv);
   }
 
   // Add Overall Rating
@@ -187,11 +129,11 @@ function displaySummaryOnPage(summaryData) {
     ratingText.style.marginTop = "10px";
     ratingText.style.color = getColorFromScore(summaryData.overall_rating);
 
-    container.appendChild(ratingText);
+    summary.appendChild(ratingText);
   }
 
-  // Append the container to the body
-  document.body.appendChild(container);
+  // Append the summary to the body
+  document.body.appendChild(summary);
 }
 
 // Helper function to get color based on score
