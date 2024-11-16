@@ -1,44 +1,15 @@
-const bodyText = "";
-
-(async () => {
-  try {
-    let pageTitle = document.title;
-    console.log("Page title:", pageTitle);
-
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  if (message.action === "processPrivacyPolicy") {
     // Extract the text content of the page
-    bodyText = document.body.innerText || "";
+    const bodyText = document.body.innerText || "";
 
     if (bodyText.trim().length === 0) {
       alert("No text found on this page.");
       return;
     }
-  } catch (error) {
-    console.error("Error in content script:", error);
-  }
-})();
 
-chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-  if (message.action === "apiKeySet" && message.apiKey) {
-    (async () => {
-      try {
-        // // Extract the text content of the page
-        // const bodyText = document.body.innerText || "";
-
-        // if (bodyText.trim().length === 0) {
-        //   alert("No text found on this page.");
-        //   return;
-        // }
-
-        // Send the text to the background script
-        chrome.runtime.sendMessage({
-          action: "processPrivacyPolicy",
-          text: bodyText,
-          apiKey: message.apiKey,
-        });
-      } catch (error) {
-        console.error("Error in content script:", error);
-      }
-    })();
+    // Send the text to the background script
+    sendResponse({ text: bodyText });
   }
 });
 
