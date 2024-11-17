@@ -1,3 +1,6 @@
+// NOTE for developers : Our frontend is highly dependent on the structure of the json output. if you want to make changes
+// to the prompt, make sure to keep the structure of the json output the same. If you want to adjust the structure,
+// you will need to edit popup.js to make it work
 export const MAIN_PROMPT_TEMPLATE = `
 You are a helpful assistant that reads privacy policies and provides a comprehensive analysis, summarizing the key points a user should be aware of.
 
