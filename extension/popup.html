@@ -1,31 +1,30 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Privacy Policy Summary</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      min-width: 300px;
-      padding: 10px;
-    }
-    h2 {
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-    .summary-item {
-      margin-bottom: 8px;
-    }
-    .risky {
-      color: red;
-    }
-    .not-risky {
-      color: green;
-    }
-  </style>
-</head>
-<body>
-  <h2>Privacy Policy Summary</h2>
-  <div id="summary">Loading...</div>
-  <script src="popup.js"></script>
-</body>
+  <head>
+    <title>Privacy Policy Summary</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body id="privacy-summary-container">
+    <div id="form">
+      <div class="header">
+        <h2>OpenAI API Key Setup</h2>
+      </div>
+      <hr />
+      <label for="key">API Key:</label>
+      <input type="password" id="key" placeholder="key" />
+
+      <button id="saveKey">Save Key</button>
+      <p id="keyStatus"></p>
+    </div>
+
+    <div id="app" class="hidden">
+      <div class="header">
+        <h2>Privacy Policy Analysis</h2>
+      </div>
+      <hr />
+      <div id="summary">Loading...</div>
+    </div>
+
+    <script type="module" src="popup.js"></script>
+  </body>
 </html>
