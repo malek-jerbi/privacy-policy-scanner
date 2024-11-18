@@ -6,11 +6,12 @@ document.addEventListener("DOMContentLoaded", () => {
   // Save API Key to localStorage and make API call
   const saveButton = document.getElementById("saveKey");
   const keyField = document.getElementById("key");
+  const findPolicyButton = document.getElementById("findPolicyButton");
 
-  saveButton.addEventListener("click", () => {
+  saveButton.addEventListener("click", async () => {
     const apiKey = keyField.value.trim();
 
-    if (isValidApiKey(apiKey)) {
+    if (await isValidApiKey(apiKey)) {
       localStorage.setItem("apiKey", apiKey);
 
       formDiv.classList.add("hidden");
@@ -19,6 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       makeApiRequest(apiKey);
     } else {
       console.error("Invalid API Key.");
+      const statusMessage = document.getElementById("keyStatus");
       statusMessage.textContent = "Please enter a valid API Key.";
     }
   });
@@ -33,6 +35,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
     makeApiRequest(apiKey);
   }
+
+  // Add functionality for the "Find Privacy Policy" button
+  findPolicyButton.addEventListener("click", () => {
+    // Send a message to the content script to find the privacy policy
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+      chrome.tabs.sendMessage(
+        tabs[0].id,
+        { action: "findPrivacyPolicy" },
+        (response) => {
+          if (response && response.link) {
+            alert(`Privacy Policy Found: ${response.link}`);
+            // Optionally, navigate to the privacy policy page
+            chrome.tabs.update(tabs[0].id, { url: response.link });
+          } else {
+            alert("Privacy Policy not found on this page.");
+          }
+        }
+      );
+    });
+  });
 });
 
 // Check if API key is valid
@@ -58,7 +80,7 @@ function makeApiRequest(apiKey) {
         console.log("Response from background script:", response.text);
         displaySummaryOnPage(response.text);
       } else {
-        console.log("Error. No data came background script");
+        console.log("Error. No data came from the background script");
       }
     }
   );
