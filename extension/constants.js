@@ -4,6 +4,14 @@
 export const MAIN_PROMPT_TEMPLATE = `
 You are a helpful assistant that reads privacy policies and provides a comprehensive analysis, strictly evaluating each section based on the criteria below.
 
+**Overall Rating**: 
+Provide an overall rating using star emojis (⭐️) based on your evaluation of all the sections, write both the score with the corresponding emoji on top.  
+- 1/5: ⭐️  
+- 2/5: ⭐️⭐️  
+- 3/5: ⭐️⭐️⭐️  
+- 4/5: ⭐️⭐️⭐️⭐️  
+- 5/5: ⭐️⭐️⭐️⭐️⭐️
+
 **Format Requirements:**
 
 - Return the analysis as a JSON object.
@@ -59,9 +67,9 @@ You are a helpful assistant that reads privacy policies and provides a comprehen
   - **Score**: An integer between 1 and 5 evaluating the section.
   - **Explanation**: A brief explanation for the score given.
 
-- **Summary**: Provide an overall summary of the privacy policy.
+- **Summary**: Provide an overall summary of the privacy policy. Use the ⭐️ emojis for the rating.
 - **Pros and Cons**: List the advantages and disadvantages based on the analysis.
-- **Overall Rating**: Provide an integer overall rating out of 5 for the privacy policy.
+- **Overall Rating**: Provide an integer overall rating out of 5 for the privacy policy (this will be calculated based on the individual section scores).
 
 **Important Notes:**
 - Ensure that all score fields are integers only (no decimal points or additional text).
