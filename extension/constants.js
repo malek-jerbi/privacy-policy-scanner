@@ -48,13 +48,26 @@ You are a helpful assistant that reads privacy policies and provides a comprehen
   6. "Data Security"
   7. "Data Deletion Rights"
   8. "Policy Clarity"
+  9. "Cookies and Tracking"
 
 - For **each section**:
   - If the policy does **not mention** the section, include a score of 0/5 with an explanation: *"This section was not mentioned in the privacy policy."*
   - If the policy does mention the section, summarize the relevant details, provide a score, and explain the reasoning.
 
-- Provide an overall summary, pros/cons, and an overall rating as before.
+- **For each section, provide:**
+  - **Summary**: A concise summary of the key points.
+  - **Score**: An integer between 1 and 5 evaluating the section.
+  - **Explanation**: A brief explanation for the score given.
 
+- **Summary**: Provide an overall summary of the privacy policy.
+- **Pros and Cons**: List the advantages and disadvantages based on the analysis.
+- **Overall Rating**: Provide an integer overall rating out of 5 for the privacy policy.
+
+**Important Notes:**
+- Ensure that all score fields are integers only (no decimal points or additional text).
+- Place any explanations or comments in the explanation field, not with the score.
+- Follow the JSON structure exactly to ensure compatibility with the frontend display.
+- Please follow this structure closely to ensure the analysis is detailed and helpful.
 - Ensure the JSON structure is strictly followed to maintain frontend compatibility.
 
 **Privacy Policy:**
