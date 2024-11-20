@@ -72,6 +72,22 @@ function displaySummaryOnPage(summaryData) {
 
   const parsedSummaryData = JSON.parse(summaryData);
 
+  // Add Overall Rating with star emojis at the top
+  if (parsedSummaryData.overall_rating !== undefined) {
+    const ratingText = document.createElement("p");
+  
+    // Create star emojis based on the rating
+    const stars = "⭐️".repeat(parsedSummaryData.overall_rating) + "☆".repeat(5 - parsedSummaryData.overall_rating);
+    ratingText.textContent = `Overall Rating: ${stars} (${parsedSummaryData.overall_rating} / 5)`;
+  
+    ratingText.style.fontWeight = "bold";
+    ratingText.style.marginTop = "10px";
+    ratingText.style.color = getColorFromScore(parsedSummaryData.overall_rating);
+    
+    // Prepend the rating to the summary container
+    summaryContainer.appendChild(ratingText);
+  }
+
   // Add the analysis sections
   const analysis = parsedSummaryData.analysis;
 
@@ -165,19 +181,6 @@ function displaySummaryOnPage(summaryData) {
     prosConsDiv.appendChild(consList);
 
     summaryContainer.appendChild(prosConsDiv);
-  }
-
-  // Add Overall Rating
-  if (parsedSummaryData.overall_rating !== undefined) {
-    const ratingText = document.createElement("p");
-    ratingText.textContent = `Overall Rating: ${parsedSummaryData.overall_rating} / 5`;
-    ratingText.style.fontWeight = "bold";
-    ratingText.style.marginTop = "10px";
-    ratingText.style.color = getColorFromScore(
-      parsedSummaryData.overall_rating
-    );
-
-    summaryContainer.appendChild(ratingText);
   }
 }
 
