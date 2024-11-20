@@ -72,6 +72,22 @@ function displaySummaryOnPage(summaryData) {
 
   const parsedSummaryData = JSON.parse(summaryData);
 
+  // Add Overall Rating with star emojis at the top
+  if (parsedSummaryData.overall_rating !== undefined) {
+    const ratingText = document.createElement("p");
+  
+    // Create star emojis based on the rating
+    const stars = "⭐️".repeat(parsedSummaryData.overall_rating) + "☆".repeat(5 - parsedSummaryData.overall_rating);
+    ratingText.textContent = `Overall Rating: ${stars} (${parsedSummaryData.overall_rating} / 5)`;
+  
+    ratingText.style.fontWeight = "bold";
+    ratingText.style.marginTop = "10px";
+    ratingText.style.color = getColorFromScore(parsedSummaryData.overall_rating);
+    
+    // Prepend the rating to the summary container
+    summaryContainer.appendChild(ratingText);
+  }
+
   // Add the analysis sections
   const analysis = parsedSummaryData.analysis;
 
@@ -90,7 +106,7 @@ function displaySummaryOnPage(summaryData) {
       summaryText.style.margin = "5px 0";
 
       const scoreText = document.createElement("p");
-      scoreText.textContent = `Score: ${item.details.score}`;
+      scoreText.textContent = `Score: ${item.details.score} / 5`;
       scoreText.style.margin = "5px 0";
 
       const explanationText = document.createElement("p");
@@ -166,25 +182,13 @@ function displaySummaryOnPage(summaryData) {
 
     summaryContainer.appendChild(prosConsDiv);
   }
-
-  // Add Overall Rating
-  if (parsedSummaryData.overall_rating !== undefined) {
-    const ratingText = document.createElement("p");
-    ratingText.textContent = `Overall Rating: ${parsedSummaryData.overall_rating} / 5`;
-    ratingText.style.fontWeight = "bold";
-    ratingText.style.marginTop = "10px";
-    ratingText.style.color = getColorFromScore(
-      parsedSummaryData.overall_rating
-    );
-
-    summaryContainer.appendChild(ratingText);
-  }
 }
 
 // Helper function to get color based on score
 function getColorFromScore(score) {
   // Map score to color: 1 (red) to 5 (green)
   const colors = {
+    0: "#FF0000", // Red
     1: "#FF0000", // Red
     2: "#FF6347", // Tomato
     3: "#FFA500", // Orange

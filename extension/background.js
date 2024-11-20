@@ -55,7 +55,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
                   body: JSON.stringify({
                     model: "gpt-4o",
                     messages: [{ role: "user", content: prompt }],
-                    temperature: 0.2,
+                    temperature: 0,
                     response_format: { type: "json_object" },
                   }),
                 })
