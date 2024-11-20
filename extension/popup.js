@@ -188,6 +188,7 @@ function displaySummaryOnPage(summaryData) {
 function getColorFromScore(score) {
   // Map score to color: 1 (red) to 5 (green)
   const colors = {
+    0: "#FF0000", // Red
     1: "#FF0000", // Red
     2: "#FF6347", // Tomato
     3: "#FFA500", // Orange
