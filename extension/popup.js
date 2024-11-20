@@ -106,7 +106,7 @@ function displaySummaryOnPage(summaryData) {
       summaryText.style.margin = "5px 0";
 
       const scoreText = document.createElement("p");
-      scoreText.textContent = `Score: ${item.details.score}`;
+      scoreText.textContent = `Score: ${item.details.score} / 5`;
       scoreText.style.margin = "5px 0";
 
       const explanationText = document.createElement("p");
