@@ -3,28 +3,36 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     const bodyText = document.body.innerText || "";
     if (bodyText.trim().length === 0) {
       alert("No text found on this page.");
+      sendResponse({ error: "No text found on this page." });
       return;
     }
     sendResponse({ text: bodyText });
   }
 
-  // Add functionality to find the privacy policy link
   if (message.action === "findPrivacyPolicy") {
-    // Get all links on the page
+    console.log("Searching for privacy policy link...");
+
     const links = Array.from(document.querySelectorAll("a"));
 
-    // Filter links based on keywords
-    const privacyPolicyLink = links.find((link) =>
-      /privacy|policy|terms/i.test(link.textContent) || // Match link text
-      /privacy|policy|terms/i.test(link.href) // Match URL
-    );
+    const keywords = /privacy|policy|legal|data|terms|rights/i;
 
-    if (privacyPolicyLink) {
-      console.log("Privacy Policy Found:", privacyPolicyLink.href);
-      sendResponse({ link: privacyPolicyLink.href });
+    const matchedLinks = links
+      .filter((link) =>
+        keywords.test(link.textContent) || keywords.test(link.href)
+      )
+      .sort((a, b) => {
+        const aPriority = /privacy/i.test(a.href) ? 1 : 0;
+        const bPriority = /privacy/i.test(b.href) ? 1 : 0;
+        return bPriority - aPriority;
+      });
+
+    if (matchedLinks.length > 0) {
+      const bestMatch = matchedLinks[0];
+      console.log("Privacy Policy Found:", bestMatch.href);
+      sendResponse({ link: bestMatch.href });
     } else {
-      console.log("Privacy Policy Not Found");
-      sendResponse({ link: null });
+      console.warn("Privacy Policy Not Found");
+      sendResponse({ error: "Privacy Policy Not Found" });
     }
   }
 });
