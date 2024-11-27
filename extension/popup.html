@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="popup.css" />
   </head>
   <body id="privacy-summary-container">
+    <!-- API Key Form -->
     <div id="form">
       <div class="header">
         <h2>OpenAI API Key Setup</h2>
@@ -12,17 +13,21 @@
       <hr />
       <label for="key">API Key:</label>
       <input type="password" id="key" placeholder="key" />
-
       <button id="saveKey">Save Key</button>
       <p id="keyStatus"></p>
     </div>
 
+    <!-- Main App -->
     <div id="app" class="hidden">
       <div class="header">
         <h2>Privacy Policy Analysis</h2>
       </div>
       <hr />
-      <div id="summary">Loading...</div>
+      <div class="button-container">
+        <button id="findPolicyButton">Find & Analyze Privacy Policy</button>
+        <button id="analyzeCurrentButton">Analyze Current Page</button>
+      </div>
+      <div id="summary"></div>
     </div>
 
     <script type="module" src="popup.js"></script>
