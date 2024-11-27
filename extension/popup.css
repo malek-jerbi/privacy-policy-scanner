@@ -33,3 +33,14 @@
 .hidden {
   display: none;
 }
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.button-container button {
+  width: 100%;
+}
